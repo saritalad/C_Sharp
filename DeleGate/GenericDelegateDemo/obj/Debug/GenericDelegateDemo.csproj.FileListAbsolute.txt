@@ -1,0 +1,6 @@
+C:\Users\ABCCOMPUTERS\source\repos\DeleGate\GenericDelegateDemo\bin\Debug\GenericDelegateDemo.exe.config
+C:\Users\ABCCOMPUTERS\source\repos\DeleGate\GenericDelegateDemo\bin\Debug\GenericDelegateDemo.exe
+C:\Users\ABCCOMPUTERS\source\repos\DeleGate\GenericDelegateDemo\bin\Debug\GenericDelegateDemo.pdb
+C:\Users\ABCCOMPUTERS\source\repos\DeleGate\GenericDelegateDemo\obj\Debug\GenericDelegateDemo.csproj.CoreCompileInputs.cache
+C:\Users\ABCCOMPUTERS\source\repos\DeleGate\GenericDelegateDemo\obj\Debug\GenericDelegateDemo.exe
+C:\Users\ABCCOMPUTERS\source\repos\DeleGate\GenericDelegateDemo\obj\Debug\GenericDelegateDemo.pdb

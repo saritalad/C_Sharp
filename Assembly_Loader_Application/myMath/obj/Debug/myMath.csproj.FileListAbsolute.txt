@@ -1,0 +1,5 @@
+D:\C_Sharp\Assembly_Loader_Application\myMath\bin\Debug\myMath.dll
+D:\C_Sharp\Assembly_Loader_Application\myMath\bin\Debug\myMath.pdb
+D:\C_Sharp\Assembly_Loader_Application\myMath\obj\Debug\myMath.csproj.CoreCompileInputs.cache
+D:\C_Sharp\Assembly_Loader_Application\myMath\obj\Debug\myMath.dll
+D:\C_Sharp\Assembly_Loader_Application\myMath\obj\Debug\myMath.pdb

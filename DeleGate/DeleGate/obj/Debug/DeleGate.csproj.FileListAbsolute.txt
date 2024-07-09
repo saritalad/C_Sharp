@@ -1,0 +1,7 @@
+C:\Users\ABCCOMPUTERS\source\repos\DeleGate\DeleGate\obj\Debug\DeleGate.csprojAssemblyReference.cache
+C:\Users\ABCCOMPUTERS\source\repos\DeleGate\DeleGate\obj\Debug\DeleGate.csproj.CoreCompileInputs.cache
+C:\Users\ABCCOMPUTERS\source\repos\DeleGate\DeleGate\bin\Debug\DeleGate.exe.config
+C:\Users\ABCCOMPUTERS\source\repos\DeleGate\DeleGate\bin\Debug\DeleGate.exe
+C:\Users\ABCCOMPUTERS\source\repos\DeleGate\DeleGate\bin\Debug\DeleGate.pdb
+C:\Users\ABCCOMPUTERS\source\repos\DeleGate\DeleGate\obj\Debug\DeleGate.exe
+C:\Users\ABCCOMPUTERS\source\repos\DeleGate\DeleGate\obj\Debug\DeleGate.pdb

@@ -1,0 +1,5 @@
+D:\A_Console APP_Programs\My Console App\Exception_Prop\bin\Debug\Exception_Prop.exe
+D:\A_Console APP_Programs\My Console App\Exception_Prop\bin\Debug\Exception_Prop.pdb
+D:\A_Console APP_Programs\My Console App\Exception_Prop\obj\Debug\Exception_Prop.exe
+D:\A_Console APP_Programs\My Console App\Exception_Prop\obj\Debug\Exception_Prop.pdb
+D:\A_Console APP_Programs\My Console App\Exception_Prop\obj\Debug\Exception_Prop.csprojResolveAssemblyReference.cache

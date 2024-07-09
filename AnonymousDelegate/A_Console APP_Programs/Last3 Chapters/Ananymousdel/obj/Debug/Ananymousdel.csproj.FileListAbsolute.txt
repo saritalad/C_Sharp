@@ -1,0 +1,9 @@
+Z:\A_Console APP_Programs\Last3 Chapters\Ananymousdel\bin\Debug\Ananymousdel.exe
+Z:\A_Console APP_Programs\Last3 Chapters\Ananymousdel\bin\Debug\Ananymousdel.pdb
+Z:\A_Console APP_Programs\Last3 Chapters\Ananymousdel\obj\Debug\ResolveAssemblyReference.cache
+Z:\A_Console APP_Programs\Last3 Chapters\Ananymousdel\obj\Debug\Ananymousdel.exe
+Z:\A_Console APP_Programs\Last3 Chapters\Ananymousdel\obj\Debug\Ananymousdel.pdb
+D:\A_Console APP_Programs\Last3 Chapters\Ananymousdel\obj\Debug\Ananymousdel.exe
+D:\A_Console APP_Programs\Last3 Chapters\Ananymousdel\obj\Debug\Ananymousdel.pdb
+D:\A_Console APP_Programs\Last3 Chapters\Ananymousdel\bin\Debug\Ananymousdel.exe
+D:\A_Console APP_Programs\Last3 Chapters\Ananymousdel\bin\Debug\Ananymousdel.pdb

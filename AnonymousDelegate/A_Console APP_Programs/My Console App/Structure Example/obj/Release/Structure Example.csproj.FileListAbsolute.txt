@@ -1,0 +1,14 @@
+Z:\SARITA\My Console App\Structure Example\bin\Release\Structure Example.exe
+Z:\SARITA\My Console App\Structure Example\bin\Release\Structure Example.pdb
+Z:\SARITA\My Console App\Structure Example\obj\Release\ResolveAssemblyReference.cache
+Z:\SARITA\My Console App\Structure Example\obj\Release\Structure Example.exe
+Z:\SARITA\My Console App\Structure Example\obj\Release\Structure Example.pdb
+Z:\A_Console APP_Programs\My Console App\Structure Example\bin\Release\Structure Example.exe
+Z:\A_Console APP_Programs\My Console App\Structure Example\bin\Release\Structure Example.pdb
+Z:\A_Console APP_Programs\My Console App\Structure Example\obj\Release\ResolveAssemblyReference.cache
+Z:\A_Console APP_Programs\My Console App\Structure Example\obj\Release\Structure Example.exe
+Z:\A_Console APP_Programs\My Console App\Structure Example\obj\Release\Structure Example.pdb
+D:\A_Console APP_Programs\My Console App\Structure Example\bin\Release\Structure Example.exe
+D:\A_Console APP_Programs\My Console App\Structure Example\bin\Release\Structure Example.pdb
+D:\A_Console APP_Programs\My Console App\Structure Example\obj\Release\Structure Example.exe
+D:\A_Console APP_Programs\My Console App\Structure Example\obj\Release\Structure Example.pdb

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="My Console App">
+</Property><Property Name="Solution File" Value="D:\A_Console APP_Programs\My Console App\My Console App.sln">
+</Property><Property Name="User Options File" Value="D:\A_Console APP_Programs\My Console App\My Console App.suo">
+</Property><Property Name="Date" Value="Monday, December 21, 2015">
+</Property><Property Name="Time" Value="8:20 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="My Console App.sln" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\My Console App.sln">
+</Event><Event ErrorLevel="0" Project="" Source="My Console App.suo" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\My Console App.suo">
+</Event><Event ErrorLevel="2" Project="first_demo" Source="first_demo\first_demo.csproj" Description="Unable to open project file to perform upgrade.  ">
+</Event><Event ErrorLevel="0" Project="formatedoutput" Source="formatedoutput\formatedoutput.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\formatedoutput\formatedoutput.csproj">
+</Event><Event ErrorLevel="0" Project="formatedoutput" Source="formatedoutput\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\formatedoutput\Program.cs">
+</Event><Event ErrorLevel="0" Project="formatedoutput" Source="formatedoutput\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\formatedoutput\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="formatedoutput" Source="formatedoutput\formatedoutput.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="formatedoutput" Source="formatedoutput\formatedoutput.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Array Types" Source="Array Types\Array Types.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Array Types\Array Types.csproj">
+</Event><Event ErrorLevel="0" Project="Array Types" Source="Array Types\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Array Types\Program.cs">
+</Event><Event ErrorLevel="0" Project="Array Types" Source="Array Types\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Array Types\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Array Types" Source="Array Types\Array Types.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Array Types" Source="Array Types\Array Types.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Variables" Source="Variables\Variables.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Variables\Variables.csproj">
+</Event><Event ErrorLevel="0" Project="Variables" Source="Variables\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Variables\Program.cs">
+</Event><Event ErrorLevel="0" Project="Variables" Source="Variables\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Variables\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Variables" Source="Variables\Variables.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Variables" Source="Variables\Variables.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Class Example" Source="Class Example\Class Example.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Class Example\Class Example.csproj">
+</Event><Event ErrorLevel="0" Project="Class Example" Source="Class Example\Date.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Class Example\Date.cs">
+</Event><Event ErrorLevel="0" Project="Class Example" Source="Class Example\Employee.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Class Example\Employee.cs">
+</Event><Event ErrorLevel="0" Project="Class Example" Source="Class Example\Manager.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Class Example\Manager.cs">
+</Event><Event ErrorLevel="0" Project="Class Example" Source="Class Example\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Class Example\Program.cs">
+</Event><Event ErrorLevel="0" Project="Class Example" Source="Class Example\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Class Example\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Class Example" Source="Class Example\student.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Class Example\student.cs">
+</Event><Event ErrorLevel="0" Project="Class Example" Source="Class Example\Class Example.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Class Example" Source="Class Example\Class Example.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Variable ref" Source="Variable ref\Variable ref.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Variable ref\Variable ref.csproj">
+</Event><Event ErrorLevel="0" Project="Variable ref" Source="Variable ref\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Variable ref\Program.cs">
+</Event><Event ErrorLevel="0" Project="Variable ref" Source="Variable ref\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Variable ref\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Variable ref" Source="Variable ref\Variable ref.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Variable ref" Source="Variable ref\Variable ref.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Structure Example" Source="Structure Example\Structure Example.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Structure Example\Structure Example.csproj">
+</Event><Event ErrorLevel="0" Project="Structure Example" Source="Structure Example\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Structure Example\Program.cs">
+</Event><Event ErrorLevel="0" Project="Structure Example" Source="Structure Example\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Structure Example\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Structure Example" Source="Structure Example\Structure Example.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Structure Example" Source="Structure Example\Structure Example.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Circle Class Example" Source="Circle Class Example\Circle Class Example.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Circle Class Example\Circle Class Example.csproj">
+</Event><Event ErrorLevel="0" Project="Circle Class Example" Source="Circle Class Example\Circle.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Circle Class Example\Circle.cs">
+</Event><Event ErrorLevel="0" Project="Circle Class Example" Source="Circle Class Example\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Circle Class Example\Program.cs">
+</Event><Event ErrorLevel="0" Project="Circle Class Example" Source="Circle Class Example\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Circle Class Example\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Circle Class Example" Source="Circle Class Example\Circle Class Example.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Circle Class Example" Source="Circle Class Example\Circle Class Example.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CommandLine example" Source="CommandLine example\CommandLine example.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\CommandLine example\CommandLine example.csproj">
+</Event><Event ErrorLevel="0" Project="CommandLine example" Source="CommandLine example\CommandLine example.csproj.user" Description="Project user file successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\CommandLine example\CommandLine example.csproj.user">
+</Event><Event ErrorLevel="0" Project="CommandLine example" Source="CommandLine example\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\CommandLine example\Program.cs">
+</Event><Event ErrorLevel="0" Project="CommandLine example" Source="CommandLine example\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\CommandLine example\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CommandLine example" Source="CommandLine example\CommandLine example.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CommandLine example" Source="CommandLine example\CommandLine example.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Method_Overload" Source="Method_Overload\Method_Overload.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Method_Overload\Method_Overload.csproj">
+</Event><Event ErrorLevel="0" Project="Method_Overload" Source="Method_Overload\Maths.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Method_Overload\Maths.cs">
+</Event><Event ErrorLevel="0" Project="Method_Overload" Source="Method_Overload\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Method_Overload\Program.cs">
+</Event><Event ErrorLevel="0" Project="Method_Overload" Source="Method_Overload\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Method_Overload\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Method_Overload" Source="Method_Overload\Method_Overload.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Method_Overload" Source="Method_Overload\Method_Overload.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Car Example for New keyword" Source="Car Example for New keyword\Car Example for New keyword.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Car Example for New keyword\Car Example for New keyword.csproj">
+</Event><Event ErrorLevel="0" Project="Car Example for New keyword" Source="Car Example for New keyword\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Car Example for New keyword\Program.cs">
+</Event><Event ErrorLevel="0" Project="Car Example for New keyword" Source="Car Example for New keyword\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Car Example for New keyword\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Car Example for New keyword" Source="Car Example for New keyword\Car Example for New keyword.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Car Example for New keyword" Source="Car Example for New keyword\Car Example for New keyword.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Abstract Class Example" Source="Abstract Class Example\Abstract Class Example.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Abstract Class Example\Abstract Class Example.csproj">
+</Event><Event ErrorLevel="0" Project="Abstract Class Example" Source="Abstract Class Example\Car.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Abstract Class Example\Car.cs">
+</Event><Event ErrorLevel="0" Project="Abstract Class Example" Source="Abstract Class Example\IDisplayable.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Abstract Class Example\IDisplayable.cs">
+</Event><Event ErrorLevel="0" Project="Abstract Class Example" Source="Abstract Class Example\IPrintable.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Abstract Class Example\IPrintable.cs">
+</Event><Event ErrorLevel="0" Project="Abstract Class Example" Source="Abstract Class Example\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Abstract Class Example\Program.cs">
+</Event><Event ErrorLevel="0" Project="Abstract Class Example" Source="Abstract Class Example\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Abstract Class Example\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Abstract Class Example" Source="Abstract Class Example\Vehicle.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Abstract Class Example\Vehicle.cs">
+</Event><Event ErrorLevel="0" Project="Abstract Class Example" Source="Abstract Class Example\Abstract Class Example.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Abstract Class Example" Source="Abstract Class Example\Abstract Class Example.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Object_Class_Methods" Source="Object_Class_Methods\Object_Class_Methods.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Object_Class_Methods\Object_Class_Methods.csproj">
+</Event><Event ErrorLevel="0" Project="Object_Class_Methods" Source="Object_Class_Methods\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Object_Class_Methods\Program.cs">
+</Event><Event ErrorLevel="0" Project="Object_Class_Methods" Source="Object_Class_Methods\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Object_Class_Methods\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Object_Class_Methods" Source="Object_Class_Methods\Square.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Object_Class_Methods\Square.cs">
+</Event><Event ErrorLevel="0" Project="Object_Class_Methods" Source="Object_Class_Methods\Object_Class_Methods.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Object_Class_Methods" Source="Object_Class_Methods\Object_Class_Methods.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="Inheritance" Source="Inheritance\Inheritance.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Inheritance\Inheritance.csproj">
+</Event><Event ErrorLevel="0" Project="Inheritance" Source="Inheritance\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Inheritance\Program.cs">
+</Event><Event ErrorLevel="0" Project="Inheritance" Source="Inheritance\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Inheritance\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Inheritance" Source="Inheritance\Inheritance.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Inheritance" Source="Inheritance\Inheritance.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="Exception_Prop" Source="Exception_Prop\Exception_Prop.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Exception_Prop\Exception_Prop.csproj">
+</Event><Event ErrorLevel="0" Project="Exception_Prop" Source="Exception_Prop\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Exception_Prop\Program.cs">
+</Event><Event ErrorLevel="0" Project="Exception_Prop" Source="Exception_Prop\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Exception_Prop\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Exception_Prop" Source="Exception_Prop\Exception_Prop.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Exception_Prop" Source="Exception_Prop\Exception_Prop.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Sealed_class_example" Source="Sealed_class_example\Sealed_class_example.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Sealed_class_example\Sealed_class_example.csproj">
+</Event><Event ErrorLevel="0" Project="Sealed_class_example" Source="Sealed_class_example\Weight.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Sealed_class_example\Weight.cs">
+</Event><Event ErrorLevel="0" Project="Sealed_class_example" Source="Sealed_class_example\myclass1.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Sealed_class_example\myclass1.cs">
+</Event><Event ErrorLevel="0" Project="Sealed_class_example" Source="Sealed_class_example\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Sealed_class_example\Program.cs">
+</Event><Event ErrorLevel="0" Project="Sealed_class_example" Source="Sealed_class_example\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Sealed_class_example\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Sealed_class_example" Source="Sealed_class_example\Sealed_class_example.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Sealed_class_example" Source="Sealed_class_example\Sealed_class_example.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Var _local Variable" Source="Var _local Variable\Var _local Variable.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Var _local Variable\Var _local Variable.csproj">
+</Event><Event ErrorLevel="0" Project="Var _local Variable" Source="Var _local Variable\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Var _local Variable\Program.cs">
+</Event><Event ErrorLevel="0" Project="Var _local Variable" Source="Var _local Variable\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Var _local Variable\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Var _local Variable" Source="Var _local Variable\datatypes in C#.docx" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Var _local Variable\datatypes in C#.docx">
+</Event><Event ErrorLevel="0" Project="Var _local Variable" Source="Var _local Variable\Var _local Variable.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Var _local Variable" Source="Var _local Variable\Var _local Variable.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Params_Example" Source="Params_Example\Params_Example.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Params_Example\Params_Example.csproj">
+</Event><Event ErrorLevel="0" Project="Params_Example" Source="Params_Example\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Params_Example\Program.cs">
+</Event><Event ErrorLevel="0" Project="Params_Example" Source="Params_Example\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Params_Example\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Params_Example" Source="Params_Example\Params_Example.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Params_Example" Source="Params_Example\Params_Example.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Enumexampke" Source="Enumexampke\Enumexampke.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Enumexampke\Enumexampke.csproj">
+</Event><Event ErrorLevel="0" Project="Enumexampke" Source="Enumexampke\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Enumexampke\Program.cs">
+</Event><Event ErrorLevel="0" Project="Enumexampke" Source="Enumexampke\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Enumexampke\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Enumexampke" Source="Enumexampke\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Enumexampke\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Enumexampke" Source="Enumexampke\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Enumexampke\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Enumexampke" Source="Enumexampke\Properties\Settings.settings" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Enumexampke\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Enumexampke" Source="Enumexampke\Properties\Resources.resx" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Enumexampke\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Enumexampke" Source="Enumexampke\Enumexampke.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Enumexampke" Source="Enumexampke\Enumexampke.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Enum with Method" Source="Enum with Method\Enum with Method.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Enum with Method\Enum with Method.csproj">
+</Event><Event ErrorLevel="0" Project="Enum with Method" Source="Enum with Method\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Enum with Method\Program.cs">
+</Event><Event ErrorLevel="0" Project="Enum with Method" Source="Enum with Method\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Enum with Method\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Enum with Method" Source="Enum with Method\Enum with Method.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Enum with Method" Source="Enum with Method\Enum with Method.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Simplearray" Source="Simplearray\Simplearray.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Simplearray\Simplearray.csproj">
+</Event><Event ErrorLevel="0" Project="Simplearray" Source="Simplearray\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Simplearray\Program.cs">
+</Event><Event ErrorLevel="0" Project="Simplearray" Source="Simplearray\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Simplearray\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Simplearray" Source="Simplearray\Simplearray.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Simplearray" Source="Simplearray\Simplearray.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Constructor_base_derived_example" Source="Constructor_base_derived_example\Constructor_base_derived_example.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Constructor_base_derived_example\Constructor_base_derived_example.csproj">
+</Event><Event ErrorLevel="0" Project="Constructor_base_derived_example" Source="Constructor_base_derived_example\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Constructor_base_derived_example\Program.cs">
+</Event><Event ErrorLevel="0" Project="Constructor_base_derived_example" Source="Constructor_base_derived_example\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Constructor_base_derived_example\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Constructor_base_derived_example" Source="Constructor_base_derived_example\Constructor_base_derived_example.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Constructor_base_derived_example" Source="Constructor_base_derived_example\Constructor_base_derived_example.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Interface_Example1" Source="Interface_Example1\Interface_Example1.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Interface_Example1\Interface_Example1.csproj">
+</Event><Event ErrorLevel="0" Project="Interface_Example1" Source="Interface_Example1\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Interface_Example1\Program.cs">
+</Event><Event ErrorLevel="0" Project="Interface_Example1" Source="Interface_Example1\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\Interface_Example1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Interface_Example1" Source="Interface_Example1\Interface_Example1.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Interface_Example1" Source="Interface_Example1\Interface_Example1.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="OperatorOverLoading_Example" Source="OperatorOverLoading_Example\OperatorOverLoading_Example.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\OperatorOverLoading_Example\OperatorOverLoading_Example.csproj">
+</Event><Event ErrorLevel="0" Project="OperatorOverLoading_Example" Source="OperatorOverLoading_Example\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\OperatorOverLoading_Example\Program.cs">
+</Event><Event ErrorLevel="0" Project="OperatorOverLoading_Example" Source="OperatorOverLoading_Example\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\My Console App\Backup\OperatorOverLoading_Example\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="OperatorOverLoading_Example" Source="OperatorOverLoading_Example\OperatorOverLoading_Example.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="OperatorOverLoading_Example" Source="OperatorOverLoading_Example\OperatorOverLoading_Example.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="My Console App.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="My Console App.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="formatedoutput" Source="formatedoutput\formatedoutput.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Array Types" Source="Array Types\Array Types.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Variables" Source="Variables\Variables.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Class Example" Source="Class Example\Class Example.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Variable ref" Source="Variable ref\Variable ref.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Structure Example" Source="Structure Example\Structure Example.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Circle Class Example" Source="Circle Class Example\Circle Class Example.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="CommandLine example" Source="CommandLine example\CommandLine example.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Method_Overload" Source="Method_Overload\Method_Overload.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Car Example for New keyword" Source="Car Example for New keyword\Car Example for New keyword.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Abstract Class Example" Source="Abstract Class Example\Abstract Class Example.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Exception_Prop" Source="Exception_Prop\Exception_Prop.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Sealed_class_example" Source="Sealed_class_example\Sealed_class_example.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Var _local Variable" Source="Var _local Variable\Var _local Variable.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Params_Example" Source="Params_Example\Params_Example.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Enumexampke" Source="Enumexampke\Enumexampke.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Enum with Method" Source="Enum with Method\Enum with Method.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Simplearray" Source="Simplearray\Simplearray.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Constructor_base_derived_example" Source="Constructor_base_derived_example\Constructor_base_derived_example.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Interface_Example1" Source="Interface_Example1\Interface_Example1.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="OperatorOverLoading_Example" Source="OperatorOverLoading_Example\OperatorOverLoading_Example.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

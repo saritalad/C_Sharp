@@ -1,0 +1,16 @@
+Z:\CloneProject\CloneProject\bin\Debug\CloneProject.exe
+Z:\CloneProject\CloneProject\bin\Debug\CloneProject.pdb
+Z:\CloneProject\CloneProject\obj\Debug\ResolveAssemblyReference.cache
+Z:\CloneProject\CloneProject\obj\Debug\CloneProject.exe
+Z:\CloneProject\CloneProject\obj\Debug\CloneProject.pdb
+Z:\A_Console APP_Programs\CloneProject\CloneProject\obj\Debug\CloneProject.exe
+Z:\A_Console APP_Programs\CloneProject\CloneProject\obj\Debug\CloneProject.pdb
+Z:\A_Console APP_Programs\CloneProject\CloneProject\bin\Debug\CloneProject.exe
+Z:\A_Console APP_Programs\CloneProject\CloneProject\bin\Debug\CloneProject.pdb
+Z:\A_Console APP_Programs\CloneProject\CloneProject\obj\Debug\ResolveAssemblyReference.cache
+D:\C_Sharp\A_Console APP_Programs\CloneProject\CloneProject\bin\Debug\CloneProject.exe
+D:\C_Sharp\A_Console APP_Programs\CloneProject\CloneProject\bin\Debug\CloneProject.pdb
+D:\C_Sharp\A_Console APP_Programs\CloneProject\CloneProject\obj\Debug\CloneProject.csproj.CoreCompileInputs.cache
+D:\C_Sharp\A_Console APP_Programs\CloneProject\CloneProject\obj\Debug\CloneProject.exe
+D:\C_Sharp\A_Console APP_Programs\CloneProject\CloneProject\obj\Debug\CloneProject.pdb
+D:\C_Sharp\A_Console APP_Programs\CloneProject\CloneProject\obj\Debug\CloneProject.csprojAssemblyReference.cache

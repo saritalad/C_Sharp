@@ -1,0 +1,7 @@
+D:\C_Sharp\FileHandling_In_CSharp\FileHandling_In_CSharp\bin\Debug\FileHandling_In_CSharp.exe.config
+D:\C_Sharp\FileHandling_In_CSharp\FileHandling_In_CSharp\bin\Debug\FileHandling_In_CSharp.exe
+D:\C_Sharp\FileHandling_In_CSharp\FileHandling_In_CSharp\bin\Debug\FileHandling_In_CSharp.pdb
+D:\C_Sharp\FileHandling_In_CSharp\FileHandling_In_CSharp\obj\Debug\FileHandling_In_CSharp.csproj.CoreCompileInputs.cache
+D:\C_Sharp\FileHandling_In_CSharp\FileHandling_In_CSharp\obj\Debug\FileHandling_In_CSharp.exe
+D:\C_Sharp\FileHandling_In_CSharp\FileHandling_In_CSharp\obj\Debug\FileHandling_In_CSharp.pdb
+D:\C_Sharp\FileHandling_In_CSharp\FileHandling_In_CSharp\obj\Debug\FileHandling_In_CSharp.csprojAssemblyReference.cache

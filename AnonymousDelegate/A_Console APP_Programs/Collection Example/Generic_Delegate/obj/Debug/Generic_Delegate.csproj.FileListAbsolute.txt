@@ -1,0 +1,4 @@
+D:\A_Console APP_Programs\Collection Example\Generic_Delegate\bin\Debug\Generic_Delegate.exe
+D:\A_Console APP_Programs\Collection Example\Generic_Delegate\bin\Debug\Generic_Delegate.pdb
+D:\A_Console APP_Programs\Collection Example\Generic_Delegate\obj\Debug\Generic_Delegate.exe
+D:\A_Console APP_Programs\Collection Example\Generic_Delegate\obj\Debug\Generic_Delegate.pdb

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Last3 Chapters">
+</Property><Property Name="Solution File" Value="D:\A_Console APP_Programs\Last3 Chapters\Last3 Chapters.sln">
+</Property><Property Name="User Options File" Value="D:\A_Console APP_Programs\Last3 Chapters\Last3 Chapters.suo">
+</Property><Property Name="Date" Value="Tuesday, December 29, 2015">
+</Property><Property Name="Time" Value="22:14 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Last3 Chapters.sln" Description="File successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\Last3 Chapters.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Last3 Chapters.suo" Description="File successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\Last3 Chapters.suo">
+</Event><Event ErrorLevel="0" Project="ComparisonExample" Source="ComparisonExample\ComparisonExample.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\ComparisonExample\ComparisonExample.csproj">
+</Event><Event ErrorLevel="0" Project="ComparisonExample" Source="ComparisonExample\Car.cs" Description="File successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\ComparisonExample\Car.cs">
+</Event><Event ErrorLevel="0" Project="ComparisonExample" Source="ComparisonExample\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\ComparisonExample\Program.cs">
+</Event><Event ErrorLevel="0" Project="ComparisonExample" Source="ComparisonExample\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\ComparisonExample\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ComparisonExample" Source="ComparisonExample\ComparisonExample.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ComparisonExample" Source="ComparisonExample\ComparisonExample.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EmployeeCompare" Source="EmployeeCompare\EmployeeCompare.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\EmployeeCompare\EmployeeCompare.csproj">
+</Event><Event ErrorLevel="0" Project="EmployeeCompare" Source="EmployeeCompare\Employee.cs" Description="File successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\EmployeeCompare\Employee.cs">
+</Event><Event ErrorLevel="0" Project="EmployeeCompare" Source="EmployeeCompare\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\EmployeeCompare\Program.cs">
+</Event><Event ErrorLevel="0" Project="EmployeeCompare" Source="EmployeeCompare\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\EmployeeCompare\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="EmployeeCompare" Source="EmployeeCompare\EmployeeCompare.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="EmployeeCompare" Source="EmployeeCompare\EmployeeCompare.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GenericDictionary example" Source="GenericDictionary example\GenericDictionary example.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\GenericDictionary example\GenericDictionary example.csproj">
+</Event><Event ErrorLevel="0" Project="GenericDictionary example" Source="GenericDictionary example\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\GenericDictionary example\Program.cs">
+</Event><Event ErrorLevel="0" Project="GenericDictionary example" Source="GenericDictionary example\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\GenericDictionary example\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GenericDictionary example" Source="GenericDictionary example\GenericDictionary example.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GenericDictionary example" Source="GenericDictionary example\GenericDictionary example.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DelegateExamples" Source="DelegateExamples\DelegateExamples.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\DelegateExamples\DelegateExamples.csproj">
+</Event><Event ErrorLevel="0" Project="DelegateExamples" Source="DelegateExamples\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\DelegateExamples\Program.cs">
+</Event><Event ErrorLevel="0" Project="DelegateExamples" Source="DelegateExamples\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\DelegateExamples\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DelegateExamples" Source="DelegateExamples\DelegateExamples.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DelegateExamples" Source="DelegateExamples\DelegateExamples.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="IEnumerable_Example" Source="IEnumerable_Example\IEnumerable_Example.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\IEnumerable_Example\IEnumerable_Example.csproj">
+</Event><Event ErrorLevel="0" Project="IEnumerable_Example" Source="IEnumerable_Example\Batch.cs" Description="File successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\IEnumerable_Example\Batch.cs">
+</Event><Event ErrorLevel="0" Project="IEnumerable_Example" Source="IEnumerable_Example\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\IEnumerable_Example\Program.cs">
+</Event><Event ErrorLevel="0" Project="IEnumerable_Example" Source="IEnumerable_Example\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\IEnumerable_Example\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="IEnumerable_Example" Source="IEnumerable_Example\Student.cs" Description="File successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\IEnumerable_Example\Student.cs">
+</Event><Event ErrorLevel="0" Project="IEnumerable_Example" Source="IEnumerable_Example\IEnumerable_Example.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="IEnumerable_Example" Source="IEnumerable_Example\IEnumerable_Example.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Unicast" Source="Unicast\Unicast.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\Unicast\Unicast.csproj">
+</Event><Event ErrorLevel="0" Project="Unicast" Source="Unicast\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\Unicast\Program.cs">
+</Event><Event ErrorLevel="0" Project="Unicast" Source="Unicast\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\Unicast\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Unicast" Source="Unicast\Unicast.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Unicast" Source="Unicast\Unicast.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Ananymousdel" Source="Ananymousdel\Ananymousdel.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\Ananymousdel\Ananymousdel.csproj">
+</Event><Event ErrorLevel="0" Project="Ananymousdel" Source="Ananymousdel\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\Ananymousdel\Program.cs">
+</Event><Event ErrorLevel="0" Project="Ananymousdel" Source="Ananymousdel\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\Ananymousdel\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Ananymousdel" Source="Ananymousdel\Ananymousdel.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Ananymousdel" Source="Ananymousdel\Ananymousdel.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LambdaExapression_Delegate" Source="LambdaExapression_Delegate\LambdaExapression_Delegate.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\LambdaExapression_Delegate\LambdaExapression_Delegate.csproj">
+</Event><Event ErrorLevel="0" Project="LambdaExapression_Delegate" Source="LambdaExapression_Delegate\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\LambdaExapression_Delegate\Program.cs">
+</Event><Event ErrorLevel="0" Project="LambdaExapression_Delegate" Source="LambdaExapression_Delegate\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\LambdaExapression_Delegate\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="LambdaExapression_Delegate" Source="LambdaExapression_Delegate\LambdaExapression_Delegate.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LambdaExapression_Delegate" Source="LambdaExapression_Delegate\LambdaExapression_Delegate.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GenericDictionary" Source="GenericDictionary\GenericDictionary.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\GenericDictionary\GenericDictionary.csproj">
+</Event><Event ErrorLevel="0" Project="GenericDictionary" Source="GenericDictionary\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\GenericDictionary\Program.cs">
+</Event><Event ErrorLevel="0" Project="GenericDictionary" Source="GenericDictionary\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\GenericDictionary\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GenericDictionary" Source="GenericDictionary\GenericDictionary.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GenericDictionary" Source="GenericDictionary\GenericDictionary.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Delegate_example1" Source="Delegate_example1\Delegate_example1.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\Delegate_example1\Delegate_example1.csproj">
+</Event><Event ErrorLevel="0" Project="Delegate_example1" Source="Delegate_example1\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\Delegate_example1\Program.cs">
+</Event><Event ErrorLevel="0" Project="Delegate_example1" Source="Delegate_example1\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\Delegate_example1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Delegate_example1" Source="Delegate_example1\Delegate_example1.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Delegate_example1" Source="Delegate_example1\Delegate_example1.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Delegate_Example2" Source="Delegate_Example2\Delegate_Example2.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\Delegate_Example2\Delegate_Example2.csproj">
+</Event><Event ErrorLevel="0" Project="Delegate_Example2" Source="Delegate_Example2\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\Delegate_Example2\Program.cs">
+</Event><Event ErrorLevel="0" Project="Delegate_Example2" Source="Delegate_Example2\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\Delegate_Example2\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Delegate_Example2" Source="Delegate_Example2\Delegate_Example2.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Delegate_Example2" Source="Delegate_Example2\Delegate_Example2.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Delegate_to_handle_event" Source="Delegate_to_handle_event\Delegate_to_handle_event.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\Delegate_to_handle_event\Delegate_to_handle_event.csproj">
+</Event><Event ErrorLevel="0" Project="Delegate_to_handle_event" Source="Delegate_to_handle_event\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\Delegate_to_handle_event\Program.cs">
+</Event><Event ErrorLevel="0" Project="Delegate_to_handle_event" Source="Delegate_to_handle_event\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\Delegate_to_handle_event\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Delegate_to_handle_event" Source="Delegate_to_handle_event\Showmessage.cs" Description="File successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\Delegate_to_handle_event\Showmessage.cs">
+</Event><Event ErrorLevel="0" Project="Delegate_to_handle_event" Source="Delegate_to_handle_event\Student.cs" Description="File successfully backed up as D:\A_Console APP_Programs\Last3 Chapters\Backup\Delegate_to_handle_event\Student.cs">
+</Event><Event ErrorLevel="0" Project="Delegate_to_handle_event" Source="Delegate_to_handle_event\Delegate_to_handle_event.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Delegate_to_handle_event" Source="Delegate_to_handle_event\Delegate_to_handle_event.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Last3 Chapters.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Last3 Chapters.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ComparisonExample" Source="ComparisonExample\ComparisonExample.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="EmployeeCompare" Source="EmployeeCompare\EmployeeCompare.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="GenericDictionary example" Source="GenericDictionary example\GenericDictionary example.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="DelegateExamples" Source="DelegateExamples\DelegateExamples.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="IEnumerable_Example" Source="IEnumerable_Example\IEnumerable_Example.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Unicast" Source="Unicast\Unicast.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Ananymousdel" Source="Ananymousdel\Ananymousdel.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="LambdaExapression_Delegate" Source="LambdaExapression_Delegate\LambdaExapression_Delegate.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="GenericDictionary" Source="GenericDictionary\GenericDictionary.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Delegate_example1" Source="Delegate_example1\Delegate_example1.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Delegate_Example2" Source="Delegate_Example2\Delegate_Example2.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Delegate_to_handle_event" Source="Delegate_to_handle_event\Delegate_to_handle_event.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,15 @@
+Z:\SARITA\My Console App\Variable ref\bin\Release\Variable ref.exe
+Z:\SARITA\My Console App\Variable ref\bin\Release\Variable ref.pdb
+Z:\SARITA\My Console App\Variable ref\obj\Release\ResolveAssemblyReference.cache
+Z:\SARITA\My Console App\Variable ref\obj\Release\Variable ref.exe
+Z:\SARITA\My Console App\Variable ref\obj\Release\Variable ref.pdb
+Z:\A_Console APP_Programs\My Console App\Variable ref\bin\Release\Variable ref.exe
+Z:\A_Console APP_Programs\My Console App\Variable ref\bin\Release\Variable ref.pdb
+Z:\A_Console APP_Programs\My Console App\Variable ref\obj\Release\ResolveAssemblyReference.cache
+Z:\A_Console APP_Programs\My Console App\Variable ref\obj\Release\Variable ref.exe
+Z:\A_Console APP_Programs\My Console App\Variable ref\obj\Release\Variable ref.pdb
+D:\A_Console APP_Programs\My Console App\Variable ref\bin\Release\Variable ref.exe
+D:\A_Console APP_Programs\My Console App\Variable ref\bin\Release\Variable ref.pdb
+D:\A_Console APP_Programs\My Console App\Variable ref\obj\Release\Variable ref.exe
+D:\A_Console APP_Programs\My Console App\Variable ref\obj\Release\Variable ref.pdb
+D:\A_Console APP_Programs\My Console App\Variable ref\obj\Release\Variable ref.csprojResolveAssemblyReference.cache

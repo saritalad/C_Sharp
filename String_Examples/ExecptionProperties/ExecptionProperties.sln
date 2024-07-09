@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExecptionProperties", "ExecptionProperties\ExecptionProperties.csproj", "{17A8CC52-E81A-4AFD-AD98-8D6C3E6EDA2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionProperties", "ExceptionProperties\ExceptionProperties.csproj", "{C2EEBBE1-BD79-49E8-A982-907AF62F0776}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayException", "ArrayException\ArrayException.csproj", "{8D390C06-A5B7-46C4-9F39-CED3CDC9C799}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomiedException", "CustomiedException\CustomiedException.csproj", "{3117A6FD-7710-4B18-A389-B6003990DD44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17A8CC52-E81A-4AFD-AD98-8D6C3E6EDA2B}.Debug|x86.ActiveCfg = Debug|x86
+		{17A8CC52-E81A-4AFD-AD98-8D6C3E6EDA2B}.Debug|x86.Build.0 = Debug|x86
+		{17A8CC52-E81A-4AFD-AD98-8D6C3E6EDA2B}.Release|x86.ActiveCfg = Release|x86
+		{17A8CC52-E81A-4AFD-AD98-8D6C3E6EDA2B}.Release|x86.Build.0 = Release|x86
+		{C2EEBBE1-BD79-49E8-A982-907AF62F0776}.Debug|x86.ActiveCfg = Debug|x86
+		{C2EEBBE1-BD79-49E8-A982-907AF62F0776}.Debug|x86.Build.0 = Debug|x86
+		{C2EEBBE1-BD79-49E8-A982-907AF62F0776}.Release|x86.ActiveCfg = Release|x86
+		{C2EEBBE1-BD79-49E8-A982-907AF62F0776}.Release|x86.Build.0 = Release|x86
+		{8D390C06-A5B7-46C4-9F39-CED3CDC9C799}.Debug|x86.ActiveCfg = Debug|x86
+		{8D390C06-A5B7-46C4-9F39-CED3CDC9C799}.Debug|x86.Build.0 = Debug|x86
+		{8D390C06-A5B7-46C4-9F39-CED3CDC9C799}.Release|x86.ActiveCfg = Release|x86
+		{8D390C06-A5B7-46C4-9F39-CED3CDC9C799}.Release|x86.Build.0 = Release|x86
+		{3117A6FD-7710-4B18-A389-B6003990DD44}.Debug|x86.ActiveCfg = Debug|x86
+		{3117A6FD-7710-4B18-A389-B6003990DD44}.Debug|x86.Build.0 = Debug|x86
+		{3117A6FD-7710-4B18-A389-B6003990DD44}.Release|x86.ActiveCfg = Release|x86
+		{3117A6FD-7710-4B18-A389-B6003990DD44}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

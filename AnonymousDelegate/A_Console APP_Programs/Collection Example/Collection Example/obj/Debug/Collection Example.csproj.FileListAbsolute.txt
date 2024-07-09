@@ -1,0 +1,20 @@
+Z:\Collection Example\Collection Example\bin\Debug\Collection Example.exe
+Z:\Collection Example\Collection Example\bin\Debug\Collection Example.pdb
+Z:\Collection Example\Collection Example\obj\Debug\ResolveAssemblyReference.cache
+Z:\Collection Example\Collection Example\obj\Debug\Collection Example.exe
+Z:\Collection Example\Collection Example\obj\Debug\Collection Example.pdb
+Z:\SARITA\Collection Example\Collection Example\obj\Debug\Collection Example.exe
+Z:\SARITA\Collection Example\Collection Example\obj\Debug\Collection Example.pdb
+Z:\SARITA\Collection Example\Collection Example\bin\Debug\Collection Example.exe
+Z:\SARITA\Collection Example\Collection Example\bin\Debug\Collection Example.pdb
+Z:\SARITA\Collection Example\Collection Example\obj\Debug\ResolveAssemblyReference.cache
+Z:\A_Console APP_Programs\Collection Example\Collection Example\obj\Debug\Collection Example.exe
+Z:\A_Console APP_Programs\Collection Example\Collection Example\obj\Debug\Collection Example.pdb
+Z:\A_Console APP_Programs\Collection Example\Collection Example\bin\Debug\Collection Example.exe
+Z:\A_Console APP_Programs\Collection Example\Collection Example\bin\Debug\Collection Example.pdb
+Z:\A_Console APP_Programs\Collection Example\Collection Example\obj\Debug\ResolveAssemblyReference.cache
+D:\A_Console APP_Programs\Collection Example\Collection Example\obj\Debug\Collection Example.exe
+D:\A_Console APP_Programs\Collection Example\Collection Example\obj\Debug\Collection Example.pdb
+D:\A_Console APP_Programs\Collection Example\Collection Example\bin\Debug\Collection Example.exe
+D:\A_Console APP_Programs\Collection Example\Collection Example\bin\Debug\Collection Example.pdb
+D:\A_Console APP_Programs\Collection Example\Collection Example\obj\Debug\Collection Example.csprojResolveAssemblyReference.cache

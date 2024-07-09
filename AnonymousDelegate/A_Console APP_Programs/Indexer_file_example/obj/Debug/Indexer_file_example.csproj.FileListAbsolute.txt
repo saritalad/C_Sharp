@@ -1,0 +1,17 @@
+D:\Indexer_file_example\obj\Debug\ResolveAssemblyReference.cache
+D:\Indexer_file_example\bin\Debug\Indexer_file_example.exe
+D:\Indexer_file_example\bin\Debug\Indexer_file_example.pdb
+D:\Indexer_file_example\obj\Debug\Indexer_file_example.exe
+D:\Indexer_file_example\obj\Debug\Indexer_file_example.pdb
+Z:\SARITA\Indexer_file_example\obj\Debug\Indexer_file_example.exe
+Z:\SARITA\Indexer_file_example\obj\Debug\Indexer_file_example.pdb
+Z:\SARITA\Indexer_file_example\bin\Debug\Indexer_file_example.exe
+Z:\SARITA\Indexer_file_example\bin\Debug\Indexer_file_example.pdb
+Z:\SARITA\Indexer_file_example\obj\Debug\ResolveAssemblyReference.cache
+Z:\A_Console APP_Programs\Indexer_file_example\bin\Debug\Indexer_file_example.exe
+Z:\A_Console APP_Programs\Indexer_file_example\bin\Debug\Indexer_file_example.pdb
+Z:\A_Console APP_Programs\Indexer_file_example\obj\Debug\ResolveAssemblyReference.cache
+Z:\A_Console APP_Programs\Indexer_file_example\obj\Debug\Indexer_file_example.exe
+Z:\A_Console APP_Programs\Indexer_file_example\obj\Debug\Indexer_file_example.pdb
+E:\A_Console APP_Programs\Indexer_file_example\obj\Debug\Indexer_file_example.exe
+E:\A_Console APP_Programs\Indexer_file_example\obj\Debug\Indexer_file_example.pdb

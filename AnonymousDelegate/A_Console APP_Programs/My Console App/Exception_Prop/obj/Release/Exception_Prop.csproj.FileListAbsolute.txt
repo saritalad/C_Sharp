@@ -1,0 +1,15 @@
+Z:\SARITA\My Console App\Exception_Prop\bin\Release\Exception_Prop.exe
+Z:\SARITA\My Console App\Exception_Prop\bin\Release\Exception_Prop.pdb
+Z:\SARITA\My Console App\Exception_Prop\obj\Release\ResolveAssemblyReference.cache
+Z:\SARITA\My Console App\Exception_Prop\obj\Release\Exception_Prop.exe
+Z:\SARITA\My Console App\Exception_Prop\obj\Release\Exception_Prop.pdb
+Z:\A_Console APP_Programs\My Console App\Exception_Prop\bin\Release\Exception_Prop.exe
+Z:\A_Console APP_Programs\My Console App\Exception_Prop\bin\Release\Exception_Prop.pdb
+Z:\A_Console APP_Programs\My Console App\Exception_Prop\obj\Release\ResolveAssemblyReference.cache
+Z:\A_Console APP_Programs\My Console App\Exception_Prop\obj\Release\Exception_Prop.exe
+Z:\A_Console APP_Programs\My Console App\Exception_Prop\obj\Release\Exception_Prop.pdb
+D:\A_Console APP_Programs\My Console App\Exception_Prop\bin\Release\Exception_Prop.exe
+D:\A_Console APP_Programs\My Console App\Exception_Prop\bin\Release\Exception_Prop.pdb
+D:\A_Console APP_Programs\My Console App\Exception_Prop\obj\Release\Exception_Prop.exe
+D:\A_Console APP_Programs\My Console App\Exception_Prop\obj\Release\Exception_Prop.pdb
+D:\A_Console APP_Programs\My Console App\Exception_Prop\obj\Release\Exception_Prop.csprojResolveAssemblyReference.cache

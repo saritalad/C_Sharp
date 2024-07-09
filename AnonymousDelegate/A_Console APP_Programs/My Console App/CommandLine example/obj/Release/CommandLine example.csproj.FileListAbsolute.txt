@@ -1,0 +1,14 @@
+Z:\SARITA\My Console App\CommandLine example\bin\Release\CommandLine example.exe
+Z:\SARITA\My Console App\CommandLine example\bin\Release\CommandLine example.pdb
+Z:\SARITA\My Console App\CommandLine example\obj\Release\ResolveAssemblyReference.cache
+Z:\SARITA\My Console App\CommandLine example\obj\Release\CommandLine example.exe
+Z:\SARITA\My Console App\CommandLine example\obj\Release\CommandLine example.pdb
+Z:\A_Console APP_Programs\My Console App\CommandLine example\bin\Release\CommandLine example.exe
+Z:\A_Console APP_Programs\My Console App\CommandLine example\bin\Release\CommandLine example.pdb
+Z:\A_Console APP_Programs\My Console App\CommandLine example\obj\Release\ResolveAssemblyReference.cache
+Z:\A_Console APP_Programs\My Console App\CommandLine example\obj\Release\CommandLine example.exe
+Z:\A_Console APP_Programs\My Console App\CommandLine example\obj\Release\CommandLine example.pdb
+D:\A_Console APP_Programs\My Console App\CommandLine example\bin\Release\CommandLine example.exe
+D:\A_Console APP_Programs\My Console App\CommandLine example\bin\Release\CommandLine example.pdb
+D:\A_Console APP_Programs\My Console App\CommandLine example\obj\Release\CommandLine example.exe
+D:\A_Console APP_Programs\My Console App\CommandLine example\obj\Release\CommandLine example.pdb

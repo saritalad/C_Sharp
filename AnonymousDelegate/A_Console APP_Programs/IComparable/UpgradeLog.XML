@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="IComparable_Demo">
+</Property><Property Name="Solution File" Value="D:\A_Console APP_Programs\IComparable\IComparable_Demo.sln">
+</Property><Property Name="Date" Value="Wednesday, January 13, 2016">
+</Property><Property Name="Time" Value="20:07:01 PM">
+</Property></Properties><Event ErrorLevel="0" Project="IComparable_Demo" Source="IComparable_Demo.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\IComparable\Backup\IComparable_Demo.csproj">
+</Event><Event ErrorLevel="0" Project="IComparable_Demo" Source="Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\IComparable\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="IComparable_Demo" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\IComparable\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="IComparable_Demo" Source="Student.cs" Description="File successfully backed up as D:\A_Console APP_Programs\IComparable\Backup\Student.cs">
+</Event><Event ErrorLevel="0" Project="IComparable_Demo" Source="IComparable_Demo.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="IComparable_Demo" Source="IComparable_Demo.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="IComparable_Demo" Source="IComparable_Demo.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

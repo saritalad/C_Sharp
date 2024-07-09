@@ -1,0 +1,7 @@
+D:\C_Sharp\DeleGate\Event_with_Student_Delegate\bin\Debug\Event_with_Student_Delegate.exe.config
+D:\C_Sharp\DeleGate\Event_with_Student_Delegate\bin\Debug\Event_with_Student_Delegate.exe
+D:\C_Sharp\DeleGate\Event_with_Student_Delegate\bin\Debug\Event_with_Student_Delegate.pdb
+D:\C_Sharp\DeleGate\Event_with_Student_Delegate\obj\Debug\Event_with_Student_Delegate.csprojAssemblyReference.cache
+D:\C_Sharp\DeleGate\Event_with_Student_Delegate\obj\Debug\Event_with_Student_Delegate.csproj.CoreCompileInputs.cache
+D:\C_Sharp\DeleGate\Event_with_Student_Delegate\obj\Debug\Event_with_Student_Delegate.exe
+D:\C_Sharp\DeleGate\Event_with_Student_Delegate\obj\Debug\Event_with_Student_Delegate.pdb

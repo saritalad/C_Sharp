@@ -1,0 +1,5 @@
+C:\Users\COMPAQ\documents\visual studio 2010\Projects\ExecptionProperties\CustomiedException\bin\Debug\CustomiedException.exe
+C:\Users\COMPAQ\documents\visual studio 2010\Projects\ExecptionProperties\CustomiedException\bin\Debug\CustomiedException.pdb
+C:\Users\COMPAQ\documents\visual studio 2010\Projects\ExecptionProperties\CustomiedException\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\COMPAQ\documents\visual studio 2010\Projects\ExecptionProperties\CustomiedException\obj\x86\Debug\CustomiedException.exe
+C:\Users\COMPAQ\documents\visual studio 2010\Projects\ExecptionProperties\CustomiedException\obj\x86\Debug\CustomiedException.pdb

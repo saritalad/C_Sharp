@@ -1,0 +1,14 @@
+Z:\SARITA\My Console App\formatedoutput\bin\Release\formatedoutput.exe
+Z:\SARITA\My Console App\formatedoutput\bin\Release\formatedoutput.pdb
+Z:\SARITA\My Console App\formatedoutput\obj\Release\ResolveAssemblyReference.cache
+Z:\SARITA\My Console App\formatedoutput\obj\Release\formatedoutput.exe
+Z:\SARITA\My Console App\formatedoutput\obj\Release\formatedoutput.pdb
+Z:\A_Console APP_Programs\My Console App\formatedoutput\bin\Release\formatedoutput.exe
+Z:\A_Console APP_Programs\My Console App\formatedoutput\bin\Release\formatedoutput.pdb
+Z:\A_Console APP_Programs\My Console App\formatedoutput\obj\Release\ResolveAssemblyReference.cache
+Z:\A_Console APP_Programs\My Console App\formatedoutput\obj\Release\formatedoutput.exe
+Z:\A_Console APP_Programs\My Console App\formatedoutput\obj\Release\formatedoutput.pdb
+D:\A_Console APP_Programs\My Console App\formatedoutput\bin\Release\formatedoutput.exe
+D:\A_Console APP_Programs\My Console App\formatedoutput\bin\Release\formatedoutput.pdb
+D:\A_Console APP_Programs\My Console App\formatedoutput\obj\Release\formatedoutput.exe
+D:\A_Console APP_Programs\My Console App\formatedoutput\obj\Release\formatedoutput.pdb

@@ -1,0 +1,15 @@
+Z:\SARITA\MydemosC#\My Console App\Variable ref\bin\Debug\Variable ref.exe
+Z:\SARITA\MydemosC#\My Console App\Variable ref\bin\Debug\Variable ref.pdb
+Z:\SARITA\MydemosC#\My Console App\Variable ref\obj\Debug\ResolveAssemblyReference.cache
+Z:\SARITA\MydemosC#\My Console App\Variable ref\obj\Debug\Variable ref.exe
+Z:\SARITA\MydemosC#\My Console App\Variable ref\obj\Debug\Variable ref.pdb
+E:\My Console App\Variable ref\bin\Debug\Variable ref.exe
+E:\My Console App\Variable ref\bin\Debug\Variable ref.pdb
+E:\My Console App\Variable ref\obj\Debug\ResolveAssemblyReference.cache
+E:\My Console App\Variable ref\obj\Debug\Variable ref.exe
+E:\My Console App\Variable ref\obj\Debug\Variable ref.pdb
+Z:\SARITA\My Console App\Variable ref\bin\Debug\Variable ref.exe
+Z:\SARITA\My Console App\Variable ref\bin\Debug\Variable ref.pdb
+Z:\SARITA\My Console App\Variable ref\obj\Debug\ResolveAssemblyReference.cache
+Z:\SARITA\My Console App\Variable ref\obj\Debug\Variable ref.exe
+Z:\SARITA\My Console App\Variable ref\obj\Debug\Variable ref.pdb

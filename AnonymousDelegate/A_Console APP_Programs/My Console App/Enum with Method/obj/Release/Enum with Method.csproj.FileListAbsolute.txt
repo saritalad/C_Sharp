@@ -1,0 +1,9 @@
+Z:\A_Console APP_Programs\My Console App\Enum with Method\bin\Release\Enum with Method.exe
+Z:\A_Console APP_Programs\My Console App\Enum with Method\bin\Release\Enum with Method.pdb
+Z:\A_Console APP_Programs\My Console App\Enum with Method\obj\Release\ResolveAssemblyReference.cache
+Z:\A_Console APP_Programs\My Console App\Enum with Method\obj\Release\Enum with Method.exe
+Z:\A_Console APP_Programs\My Console App\Enum with Method\obj\Release\Enum with Method.pdb
+D:\A_Console APP_Programs\My Console App\Enum with Method\bin\Release\Enum with Method.exe
+D:\A_Console APP_Programs\My Console App\Enum with Method\bin\Release\Enum with Method.pdb
+D:\A_Console APP_Programs\My Console App\Enum with Method\obj\Release\Enum with Method.exe
+D:\A_Console APP_Programs\My Console App\Enum with Method\obj\Release\Enum with Method.pdb

@@ -1,0 +1,7 @@
+D:\C_Sharp\CollectionGenericSortedList\CollectionGenericSortedList\bin\Debug\CollectionGenericSortedList.exe.config
+D:\C_Sharp\CollectionGenericSortedList\CollectionGenericSortedList\bin\Debug\CollectionGenericSortedList.exe
+D:\C_Sharp\CollectionGenericSortedList\CollectionGenericSortedList\bin\Debug\CollectionGenericSortedList.pdb
+D:\C_Sharp\CollectionGenericSortedList\CollectionGenericSortedList\obj\Debug\CollectionGenericSortedList.csprojAssemblyReference.cache
+D:\C_Sharp\CollectionGenericSortedList\CollectionGenericSortedList\obj\Debug\CollectionGenericSortedList.csproj.CoreCompileInputs.cache
+D:\C_Sharp\CollectionGenericSortedList\CollectionGenericSortedList\obj\Debug\CollectionGenericSortedList.exe
+D:\C_Sharp\CollectionGenericSortedList\CollectionGenericSortedList\obj\Debug\CollectionGenericSortedList.pdb

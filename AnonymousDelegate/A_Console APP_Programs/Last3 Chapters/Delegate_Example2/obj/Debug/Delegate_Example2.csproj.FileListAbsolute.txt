@@ -1,0 +1,4 @@
+D:\A_Console APP_Programs\Last3 Chapters\Delegate_Example2\bin\Debug\Delegate_Example2.exe
+D:\A_Console APP_Programs\Last3 Chapters\Delegate_Example2\bin\Debug\Delegate_Example2.pdb
+D:\A_Console APP_Programs\Last3 Chapters\Delegate_Example2\obj\Debug\Delegate_Example2.exe
+D:\A_Console APP_Programs\Last3 Chapters\Delegate_Example2\obj\Debug\Delegate_Example2.pdb

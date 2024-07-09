@@ -1,0 +1,5 @@
+C:\Users\COMPAQ\documents\visual studio 2010\Projects\ExecptionProperties\ExceptionProperties\bin\Debug\ExceptionProperties.exe
+C:\Users\COMPAQ\documents\visual studio 2010\Projects\ExecptionProperties\ExceptionProperties\bin\Debug\ExceptionProperties.pdb
+C:\Users\COMPAQ\documents\visual studio 2010\Projects\ExecptionProperties\ExceptionProperties\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\COMPAQ\documents\visual studio 2010\Projects\ExecptionProperties\ExceptionProperties\obj\x86\Debug\ExceptionProperties.exe
+C:\Users\COMPAQ\documents\visual studio 2010\Projects\ExecptionProperties\ExceptionProperties\obj\x86\Debug\ExceptionProperties.pdb

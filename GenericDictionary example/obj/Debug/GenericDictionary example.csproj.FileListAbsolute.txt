@@ -1,0 +1,21 @@
+Z:\SARITA\Last3 Chapters\GenericDictionary example\bin\Debug\GenericDictionary example.exe
+Z:\SARITA\Last3 Chapters\GenericDictionary example\bin\Debug\GenericDictionary example.pdb
+Z:\SARITA\Last3 Chapters\GenericDictionary example\obj\Debug\ResolveAssemblyReference.cache
+Z:\SARITA\Last3 Chapters\GenericDictionary example\obj\Debug\GenericDictionary example.exe
+Z:\SARITA\Last3 Chapters\GenericDictionary example\obj\Debug\GenericDictionary example.pdb
+Z:\A_Console APP_Programs\Last3 Chapters\GenericDictionary example\bin\Debug\GenericDictionary example.exe
+Z:\A_Console APP_Programs\Last3 Chapters\GenericDictionary example\bin\Debug\GenericDictionary example.pdb
+Z:\A_Console APP_Programs\Last3 Chapters\GenericDictionary example\obj\Debug\ResolveAssemblyReference.cache
+Z:\A_Console APP_Programs\Last3 Chapters\GenericDictionary example\obj\Debug\GenericDictionary example.exe
+Z:\A_Console APP_Programs\Last3 Chapters\GenericDictionary example\obj\Debug\GenericDictionary example.pdb
+D:\A_Console APP_Programs\Last3 Chapters\GenericDictionary example\obj\Debug\GenericDictionary example.exe
+D:\A_Console APP_Programs\Last3 Chapters\GenericDictionary example\obj\Debug\GenericDictionary example.pdb
+D:\A_Console APP_Programs\Last3 Chapters\GenericDictionary example\bin\Debug\GenericDictionary example.exe
+D:\A_Console APP_Programs\Last3 Chapters\GenericDictionary example\bin\Debug\GenericDictionary example.pdb
+D:\A_Console APP_Programs\Last3 Chapters\GenericDictionary example\obj\Debug\GenericDictionary example.csprojResolveAssemblyReference.cache
+D:\C_Sharp\GenericDictionary example\bin\Debug\GenericDictionary example.exe
+D:\C_Sharp\GenericDictionary example\bin\Debug\GenericDictionary example.pdb
+D:\C_Sharp\GenericDictionary example\obj\Debug\GenericDictionary example.csproj.CoreCompileInputs.cache
+D:\C_Sharp\GenericDictionary example\obj\Debug\GenericDictionary example.exe
+D:\C_Sharp\GenericDictionary example\obj\Debug\GenericDictionary example.pdb
+D:\C_Sharp\GenericDictionary example\obj\Debug\GenericDictionary example.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+Z:\SARITA\Last3 Chapters\DelegateExamples\obj\Debug\ResolveAssemblyReference.cache
+Z:\SARITA\Last3 Chapters\DelegateExamples\bin\Debug\DelegateExamples.exe
+Z:\SARITA\Last3 Chapters\DelegateExamples\bin\Debug\DelegateExamples.pdb
+Z:\SARITA\Last3 Chapters\DelegateExamples\obj\Debug\DelegateExamples.exe
+Z:\SARITA\Last3 Chapters\DelegateExamples\obj\Debug\DelegateExamples.pdb
+Z:\A_Console APP_Programs\Last3 Chapters\DelegateExamples\bin\Debug\DelegateExamples.exe
+Z:\A_Console APP_Programs\Last3 Chapters\DelegateExamples\bin\Debug\DelegateExamples.pdb
+Z:\A_Console APP_Programs\Last3 Chapters\DelegateExamples\obj\Debug\ResolveAssemblyReference.cache
+Z:\A_Console APP_Programs\Last3 Chapters\DelegateExamples\obj\Debug\DelegateExamples.exe
+Z:\A_Console APP_Programs\Last3 Chapters\DelegateExamples\obj\Debug\DelegateExamples.pdb
+D:\A_Console APP_Programs\Last3 Chapters\DelegateExamples\bin\Debug\DelegateExamples.exe
+D:\A_Console APP_Programs\Last3 Chapters\DelegateExamples\bin\Debug\DelegateExamples.pdb
+D:\A_Console APP_Programs\Last3 Chapters\DelegateExamples\obj\Debug\DelegateExamples.exe
+D:\A_Console APP_Programs\Last3 Chapters\DelegateExamples\obj\Debug\DelegateExamples.pdb
+D:\A_Console APP_Programs\Last3 Chapters\DelegateExamples\obj\Debug\DelegateExamples.csprojResolveAssemblyReference.cache

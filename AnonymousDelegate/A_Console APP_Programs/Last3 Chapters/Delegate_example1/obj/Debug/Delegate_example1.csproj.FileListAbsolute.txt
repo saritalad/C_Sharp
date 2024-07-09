@@ -1,0 +1,5 @@
+D:\A_Console APP_Programs\Last3 Chapters\Delegate_example1\bin\Debug\Delegate_example1.exe
+D:\A_Console APP_Programs\Last3 Chapters\Delegate_example1\bin\Debug\Delegate_example1.pdb
+D:\A_Console APP_Programs\Last3 Chapters\Delegate_example1\obj\Debug\Delegate_example1.exe
+D:\A_Console APP_Programs\Last3 Chapters\Delegate_example1\obj\Debug\Delegate_example1.pdb
+D:\A_Console APP_Programs\Last3 Chapters\Delegate_example1\obj\Debug\Delegate_example1.csprojResolveAssemblyReference.cache

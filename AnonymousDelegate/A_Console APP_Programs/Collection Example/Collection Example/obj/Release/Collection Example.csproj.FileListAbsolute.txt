@@ -1,0 +1,4 @@
+D:\A_Console APP_Programs\Collection Example\Collection Example\bin\Release\Collection Example.exe
+D:\A_Console APP_Programs\Collection Example\Collection Example\bin\Release\Collection Example.pdb
+D:\A_Console APP_Programs\Collection Example\Collection Example\obj\Release\Collection Example.exe
+D:\A_Console APP_Programs\Collection Example\Collection Example\obj\Release\Collection Example.pdb

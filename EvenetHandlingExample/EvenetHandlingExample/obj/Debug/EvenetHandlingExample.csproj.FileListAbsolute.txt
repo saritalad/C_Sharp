@@ -1,0 +1,7 @@
+D:\C_Sharp\EvenetHandlingExample\EvenetHandlingExample\bin\Debug\EvenetHandlingExample.exe.config
+D:\C_Sharp\EvenetHandlingExample\EvenetHandlingExample\bin\Debug\EvenetHandlingExample.exe
+D:\C_Sharp\EvenetHandlingExample\EvenetHandlingExample\bin\Debug\EvenetHandlingExample.pdb
+D:\C_Sharp\EvenetHandlingExample\EvenetHandlingExample\obj\Debug\EvenetHandlingExample.csprojAssemblyReference.cache
+D:\C_Sharp\EvenetHandlingExample\EvenetHandlingExample\obj\Debug\EvenetHandlingExample.csproj.CoreCompileInputs.cache
+D:\C_Sharp\EvenetHandlingExample\EvenetHandlingExample\obj\Debug\EvenetHandlingExample.exe
+D:\C_Sharp\EvenetHandlingExample\EvenetHandlingExample\obj\Debug\EvenetHandlingExample.pdb

@@ -1,0 +1,15 @@
+Z:\SARITA\MydemosC#\My Console App\AreaCircle\bin\Debug\AreaCircle.exe
+Z:\SARITA\MydemosC#\My Console App\AreaCircle\bin\Debug\AreaCircle.pdb
+Z:\SARITA\MydemosC#\My Console App\AreaCircle\obj\Debug\ResolveAssemblyReference.cache
+Z:\SARITA\MydemosC#\My Console App\AreaCircle\obj\Debug\AreaCircle.exe
+Z:\SARITA\MydemosC#\My Console App\AreaCircle\obj\Debug\AreaCircle.pdb
+E:\My Console App\AreaCircle\bin\Debug\AreaCircle.exe
+E:\My Console App\AreaCircle\bin\Debug\AreaCircle.pdb
+E:\My Console App\AreaCircle\obj\Debug\ResolveAssemblyReference.cache
+E:\My Console App\AreaCircle\obj\Debug\AreaCircle.exe
+E:\My Console App\AreaCircle\obj\Debug\AreaCircle.pdb
+Z:\SARITA\My Console App\AreaCircle\bin\Debug\AreaCircle.exe
+Z:\SARITA\My Console App\AreaCircle\bin\Debug\AreaCircle.pdb
+Z:\SARITA\My Console App\AreaCircle\obj\Debug\ResolveAssemblyReference.cache
+Z:\SARITA\My Console App\AreaCircle\obj\Debug\AreaCircle.exe
+Z:\SARITA\My Console App\AreaCircle\obj\Debug\AreaCircle.pdb

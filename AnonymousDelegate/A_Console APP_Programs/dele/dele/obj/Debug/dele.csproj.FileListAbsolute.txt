@@ -1,0 +1,10 @@
+Z:\dele\dele\obj\Debug\ResolveAssemblyReference.cache
+Z:\dele\dele\bin\Debug\dele.exe
+Z:\dele\dele\bin\Debug\dele.pdb
+Z:\dele\dele\obj\Debug\dele.exe
+Z:\dele\dele\obj\Debug\dele.pdb
+Z:\A_Console APP_Programs\dele\dele\obj\Debug\dele.exe
+Z:\A_Console APP_Programs\dele\dele\obj\Debug\dele.pdb
+Z:\A_Console APP_Programs\dele\dele\bin\Debug\dele.exe
+Z:\A_Console APP_Programs\dele\dele\bin\Debug\dele.pdb
+Z:\A_Console APP_Programs\dele\dele\obj\Debug\ResolveAssemblyReference.cache

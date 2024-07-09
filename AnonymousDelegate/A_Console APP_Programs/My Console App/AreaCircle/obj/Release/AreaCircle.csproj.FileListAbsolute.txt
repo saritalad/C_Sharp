@@ -1,0 +1,10 @@
+Z:\SARITA\My Console App\AreaCircle\bin\Release\AreaCircle.exe
+Z:\SARITA\My Console App\AreaCircle\bin\Release\AreaCircle.pdb
+Z:\SARITA\My Console App\AreaCircle\obj\Release\ResolveAssemblyReference.cache
+Z:\SARITA\My Console App\AreaCircle\obj\Release\AreaCircle.exe
+Z:\SARITA\My Console App\AreaCircle\obj\Release\AreaCircle.pdb
+Z:\A_Console APP_Programs\My Console App\AreaCircle\bin\Release\AreaCircle.exe
+Z:\A_Console APP_Programs\My Console App\AreaCircle\bin\Release\AreaCircle.pdb
+Z:\A_Console APP_Programs\My Console App\AreaCircle\obj\Release\ResolveAssemblyReference.cache
+Z:\A_Console APP_Programs\My Console App\AreaCircle\obj\Release\AreaCircle.exe
+Z:\A_Console APP_Programs\My Console App\AreaCircle\obj\Release\AreaCircle.pdb

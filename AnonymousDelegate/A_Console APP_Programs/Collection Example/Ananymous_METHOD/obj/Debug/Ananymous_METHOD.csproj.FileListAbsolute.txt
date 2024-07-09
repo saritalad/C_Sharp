@@ -1,0 +1,6 @@
+D:\A_Console APP_Programs\Collection Example\Ananymous_METHOD\bin\Debug\Ananymous_METHOD.exe
+D:\A_Console APP_Programs\Collection Example\Ananymous_METHOD\bin\Debug\Ananymous_METHOD.pdb
+D:\A_Console APP_Programs\Collection Example\Ananymous_METHOD\obj\Debug\Ananymous_METHOD.exe
+D:\A_Console APP_Programs\Collection Example\Ananymous_METHOD\obj\Debug\Ananymous_METHOD.pdb
+G:\A_Console APP_Programs\Collection Example\Ananymous_METHOD\obj\Debug\Ananymous_METHOD.exe
+G:\A_Console APP_Programs\Collection Example\Ananymous_METHOD\obj\Debug\Ananymous_METHOD.pdb

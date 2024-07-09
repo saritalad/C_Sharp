@@ -1,0 +1,7 @@
+D:\C_Sharp\GenericMethod_GenericClass\Swapfnt\bin\Debug\Swapfnt.exe.config
+D:\C_Sharp\GenericMethod_GenericClass\Swapfnt\bin\Debug\Swapfnt.exe
+D:\C_Sharp\GenericMethod_GenericClass\Swapfnt\bin\Debug\Swapfnt.pdb
+D:\C_Sharp\GenericMethod_GenericClass\Swapfnt\obj\Debug\Swapfnt.csproj.CoreCompileInputs.cache
+D:\C_Sharp\GenericMethod_GenericClass\Swapfnt\obj\Debug\Swapfnt.exe
+D:\C_Sharp\GenericMethod_GenericClass\Swapfnt\obj\Debug\Swapfnt.pdb
+D:\C_Sharp\GenericMethod_GenericClass\Swapfnt\obj\Debug\Swapfnt.csprojAssemblyReference.cache

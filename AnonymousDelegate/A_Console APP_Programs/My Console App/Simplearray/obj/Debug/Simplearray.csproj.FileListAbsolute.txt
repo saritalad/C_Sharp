@@ -1,0 +1,4 @@
+D:\A_Console APP_Programs\My Console App\Simplearray\bin\Debug\Simplearray.exe
+D:\A_Console APP_Programs\My Console App\Simplearray\bin\Debug\Simplearray.pdb
+D:\A_Console APP_Programs\My Console App\Simplearray\obj\Debug\Simplearray.exe
+D:\A_Console APP_Programs\My Console App\Simplearray\obj\Debug\Simplearray.pdb

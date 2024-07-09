@@ -1,0 +1,15 @@
+Z:\SARITA\MydemosC#\My Console App\Structure Example\bin\Debug\Structure Example.exe
+Z:\SARITA\MydemosC#\My Console App\Structure Example\bin\Debug\Structure Example.pdb
+Z:\SARITA\MydemosC#\My Console App\Structure Example\obj\Debug\ResolveAssemblyReference.cache
+Z:\SARITA\MydemosC#\My Console App\Structure Example\obj\Debug\Structure Example.exe
+Z:\SARITA\MydemosC#\My Console App\Structure Example\obj\Debug\Structure Example.pdb
+E:\My Console App\Structure Example\bin\Debug\Structure Example.exe
+E:\My Console App\Structure Example\bin\Debug\Structure Example.pdb
+E:\My Console App\Structure Example\obj\Debug\ResolveAssemblyReference.cache
+E:\My Console App\Structure Example\obj\Debug\Structure Example.exe
+E:\My Console App\Structure Example\obj\Debug\Structure Example.pdb
+Z:\SARITA\My Console App\Structure Example\bin\Debug\Structure Example.exe
+Z:\SARITA\My Console App\Structure Example\bin\Debug\Structure Example.pdb
+Z:\SARITA\My Console App\Structure Example\obj\Debug\ResolveAssemblyReference.cache
+Z:\SARITA\My Console App\Structure Example\obj\Debug\Structure Example.exe
+Z:\SARITA\My Console App\Structure Example\obj\Debug\Structure Example.pdb

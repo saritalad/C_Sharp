@@ -1,0 +1,9 @@
+Z:\A_Console APP_Programs\My Console App\Var _local Variable\bin\Release\Var _local Variable.exe
+Z:\A_Console APP_Programs\My Console App\Var _local Variable\bin\Release\Var _local Variable.pdb
+Z:\A_Console APP_Programs\My Console App\Var _local Variable\obj\Release\ResolveAssemblyReference.cache
+Z:\A_Console APP_Programs\My Console App\Var _local Variable\obj\Release\Var _local Variable.exe
+Z:\A_Console APP_Programs\My Console App\Var _local Variable\obj\Release\Var _local Variable.pdb
+D:\A_Console APP_Programs\My Console App\Var _local Variable\bin\Release\Var _local Variable.exe
+D:\A_Console APP_Programs\My Console App\Var _local Variable\bin\Release\Var _local Variable.pdb
+D:\A_Console APP_Programs\My Console App\Var _local Variable\obj\Release\Var _local Variable.exe
+D:\A_Console APP_Programs\My Console App\Var _local Variable\obj\Release\Var _local Variable.pdb

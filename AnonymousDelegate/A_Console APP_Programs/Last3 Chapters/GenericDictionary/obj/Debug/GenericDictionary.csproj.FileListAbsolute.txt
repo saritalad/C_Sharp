@@ -1,0 +1,7 @@
+D:\A_Console APP_Programs\Last3 Chapters\GenericDictionary\bin\Debug\GenericDictionary.exe
+D:\A_Console APP_Programs\Last3 Chapters\GenericDictionary\bin\Debug\GenericDictionary.pdb
+D:\A_Console APP_Programs\Last3 Chapters\GenericDictionary\obj\Debug\GenericDictionary.exe
+D:\A_Console APP_Programs\Last3 Chapters\GenericDictionary\obj\Debug\GenericDictionary.pdb
+D:\A_Console APP_Programs\Last3 Chapters\GenericDictionary\obj\Debug\GenericDictionary.csprojResolveAssemblyReference.cache
+G:\A_Console APP_Programs\Last3 Chapters\GenericDictionary\obj\Debug\GenericDictionary.exe
+G:\A_Console APP_Programs\Last3 Chapters\GenericDictionary\obj\Debug\GenericDictionary.pdb

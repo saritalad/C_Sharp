@@ -1,0 +1,9 @@
+C:\Documents and Settings\dotneta23_6\Desktop\AbstractDemo\CloneDemo\bin\Debug\CloneDemo.exe
+C:\Documents and Settings\dotneta23_6\Desktop\AbstractDemo\CloneDemo\bin\Debug\CloneDemo.pdb
+C:\Documents and Settings\dotneta23_6\Desktop\AbstractDemo\CloneDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dotneta23_6\Desktop\AbstractDemo\CloneDemo\obj\Debug\CloneDemo.exe
+C:\Documents and Settings\dotneta23_6\Desktop\AbstractDemo\CloneDemo\obj\Debug\CloneDemo.pdb
+Z:\A_Console APP_Programs\Stud\AbstractDemo,CloneDemo_May30\CloneDemo\obj\Debug\CloneDemo.exe
+Z:\A_Console APP_Programs\Stud\AbstractDemo,CloneDemo_May30\CloneDemo\obj\Debug\CloneDemo.pdb
+Z:\A_Console APP_Programs\CloneDemo\obj\Debug\CloneDemo.exe
+Z:\A_Console APP_Programs\CloneDemo\obj\Debug\CloneDemo.pdb

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="dele">
+</Property><Property Name="Solution File" Value="D:\A_Console APP_Programs\dele\dele.sln">
+</Property><Property Name="User Options File" Value="D:\A_Console APP_Programs\dele\dele.suo">
+</Property><Property Name="Date" Value="Sunday, April 09, 2017">
+</Property><Property Name="Time" Value="17:48 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="dele.sln" Description="File successfully backed up as D:\A_Console APP_Programs\dele\Backup\dele.sln">
+</Event><Event ErrorLevel="0" Project="" Source="dele.suo" Description="File successfully backed up as D:\A_Console APP_Programs\dele\Backup\dele.suo">
+</Event><Event ErrorLevel="0" Project="delegate_to_handle_event" Source="dele\delegate_to_handle_event.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\dele\Backup\dele\delegate_to_handle_event.csproj">
+</Event><Event ErrorLevel="0" Project="delegate_to_handle_event" Source="dele\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\dele\Backup\dele\Program.cs">
+</Event><Event ErrorLevel="0" Project="delegate_to_handle_event" Source="dele\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\dele\Backup\dele\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="delegate_to_handle_event" Source="dele\showmessage.cs" Description="File successfully backed up as D:\A_Console APP_Programs\dele\Backup\dele\showmessage.cs">
+</Event><Event ErrorLevel="0" Project="delegate_to_handle_event" Source="dele\Student.cs" Description="File successfully backed up as D:\A_Console APP_Programs\dele\Backup\dele\Student.cs">
+</Event><Event ErrorLevel="0" Project="delegate_to_handle_event" Source="dele\delegate_to_handle_event.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="delegate_to_handle_event" Source="dele\delegate_to_handle_event.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Delegate_Invoke_Example" Source="..\Delegate_Invoke_Example\Delegate_Invoke_Example\Delegate_Invoke_Example.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\dele\Backup\Delegate_Invoke_Example.csproj">
+</Event><Event ErrorLevel="0" Project="Delegate_Invoke_Example" Source="..\Delegate_Invoke_Example\Delegate_Invoke_Example\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\dele\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="Delegate_Invoke_Example" Source="..\Delegate_Invoke_Example\Delegate_Invoke_Example\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\dele\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Delegate_Invoke_Example" Source="..\Delegate_Invoke_Example\Delegate_Invoke_Example\Delegate_Invoke_Example.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Delegate_Invoke_Example" Source="..\Delegate_Invoke_Example\Delegate_Invoke_Example\Delegate_Invoke_Example.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Generic_Delegate_Sample" Source="..\Delegate_Invoke_Example\Generic_Delegate_Sample\Generic_Delegate_Sample.csproj" Description="Project file successfully backed up as D:\A_Console APP_Programs\dele\Backup\Generic_Delegate_Sample.csproj">
+</Event><Event ErrorLevel="0" Project="Generic_Delegate_Sample" Source="..\Delegate_Invoke_Example\Generic_Delegate_Sample\Program.cs" Description="Backup file name conflict.  Renaming file to:  D:\A_Console APP_Programs\dele\Backup\Program(2).cs">
+</Event><Event ErrorLevel="0" Project="Generic_Delegate_Sample" Source="..\Delegate_Invoke_Example\Generic_Delegate_Sample\Program.cs" Description="File successfully backed up as D:\A_Console APP_Programs\dele\Backup\Program(2).cs">
+</Event><Event ErrorLevel="0" Project="Generic_Delegate_Sample" Source="..\Delegate_Invoke_Example\Generic_Delegate_Sample\Properties\AssemblyInfo.cs" Description="Backup file name conflict.  Renaming file to:  D:\A_Console APP_Programs\dele\Backup\Properties\AssemblyInfo(2).cs">
+</Event><Event ErrorLevel="0" Project="Generic_Delegate_Sample" Source="..\Delegate_Invoke_Example\Generic_Delegate_Sample\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Console APP_Programs\dele\Backup\Properties\AssemblyInfo(2).cs">
+</Event><Event ErrorLevel="0" Project="Generic_Delegate_Sample" Source="..\Delegate_Invoke_Example\Generic_Delegate_Sample\Generic_Delegate_Sample.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Generic_Delegate_Sample" Source="..\Delegate_Invoke_Example\Generic_Delegate_Sample\Generic_Delegate_Sample.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="dele.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="dele.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="delegate_to_handle_event" Source="dele\delegate_to_handle_event.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Delegate_Invoke_Example" Source="..\Delegate_Invoke_Example\Delegate_Invoke_Example\Delegate_Invoke_Example.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Generic_Delegate_Sample" Source="..\Delegate_Invoke_Example\Generic_Delegate_Sample\Generic_Delegate_Sample.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

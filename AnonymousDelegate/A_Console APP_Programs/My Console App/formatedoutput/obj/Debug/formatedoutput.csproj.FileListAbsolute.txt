@@ -1,0 +1,15 @@
+Z:\SARITA\MydemosC#\My Console App\formatedoutput\bin\Debug\formatedoutput.exe
+Z:\SARITA\MydemosC#\My Console App\formatedoutput\bin\Debug\formatedoutput.pdb
+Z:\SARITA\MydemosC#\My Console App\formatedoutput\obj\Debug\ResolveAssemblyReference.cache
+Z:\SARITA\MydemosC#\My Console App\formatedoutput\obj\Debug\formatedoutput.exe
+Z:\SARITA\MydemosC#\My Console App\formatedoutput\obj\Debug\formatedoutput.pdb
+E:\My Console App\formatedoutput\bin\Debug\formatedoutput.exe
+E:\My Console App\formatedoutput\bin\Debug\formatedoutput.pdb
+E:\My Console App\formatedoutput\obj\Debug\ResolveAssemblyReference.cache
+E:\My Console App\formatedoutput\obj\Debug\formatedoutput.exe
+E:\My Console App\formatedoutput\obj\Debug\formatedoutput.pdb
+Z:\SARITA\My Console App\formatedoutput\bin\Debug\formatedoutput.exe
+Z:\SARITA\My Console App\formatedoutput\bin\Debug\formatedoutput.pdb
+Z:\SARITA\My Console App\formatedoutput\obj\Debug\ResolveAssemblyReference.cache
+Z:\SARITA\My Console App\formatedoutput\obj\Debug\formatedoutput.exe
+Z:\SARITA\My Console App\formatedoutput\obj\Debug\formatedoutput.pdb

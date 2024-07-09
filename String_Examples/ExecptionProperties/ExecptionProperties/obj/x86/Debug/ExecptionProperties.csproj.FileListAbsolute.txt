@@ -1,0 +1,5 @@
+C:\Users\COMPAQ\documents\visual studio 2010\Projects\ExecptionProperties\ExecptionProperties\bin\Debug\ExecptionProperties.exe
+C:\Users\COMPAQ\documents\visual studio 2010\Projects\ExecptionProperties\ExecptionProperties\bin\Debug\ExecptionProperties.pdb
+C:\Users\COMPAQ\documents\visual studio 2010\Projects\ExecptionProperties\ExecptionProperties\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\COMPAQ\documents\visual studio 2010\Projects\ExecptionProperties\ExecptionProperties\obj\x86\Debug\ExecptionProperties.exe
+C:\Users\COMPAQ\documents\visual studio 2010\Projects\ExecptionProperties\ExecptionProperties\obj\x86\Debug\ExecptionProperties.pdb

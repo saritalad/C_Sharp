@@ -1,0 +1,15 @@
+Z:\SARITA\MydemosC#\My Console App\CommandLine example\bin\Debug\CommandLine example.exe
+Z:\SARITA\MydemosC#\My Console App\CommandLine example\bin\Debug\CommandLine example.pdb
+Z:\SARITA\MydemosC#\My Console App\CommandLine example\obj\Debug\ResolveAssemblyReference.cache
+Z:\SARITA\MydemosC#\My Console App\CommandLine example\obj\Debug\CommandLine example.exe
+Z:\SARITA\MydemosC#\My Console App\CommandLine example\obj\Debug\CommandLine example.pdb
+E:\My Console App\CommandLine example\obj\Debug\CommandLine example.exe
+E:\My Console App\CommandLine example\obj\Debug\CommandLine example.pdb
+E:\My Console App\CommandLine example\bin\Debug\CommandLine example.exe
+E:\My Console App\CommandLine example\bin\Debug\CommandLine example.pdb
+E:\My Console App\CommandLine example\obj\Debug\ResolveAssemblyReference.cache
+Z:\SARITA\My Console App\CommandLine example\bin\Debug\CommandLine example.exe
+Z:\SARITA\My Console App\CommandLine example\bin\Debug\CommandLine example.pdb
+Z:\SARITA\My Console App\CommandLine example\obj\Debug\ResolveAssemblyReference.cache
+Z:\SARITA\My Console App\CommandLine example\obj\Debug\CommandLine example.exe
+Z:\SARITA\My Console App\CommandLine example\obj\Debug\CommandLine example.pdb

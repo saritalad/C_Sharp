@@ -1,0 +1,15 @@
+Z:\SARITA\Last3 Chapters\IEnumerable_Example\bin\Debug\IEnumerable_Example.exe
+Z:\SARITA\Last3 Chapters\IEnumerable_Example\bin\Debug\IEnumerable_Example.pdb
+Z:\SARITA\Last3 Chapters\IEnumerable_Example\obj\Debug\ResolveAssemblyReference.cache
+Z:\SARITA\Last3 Chapters\IEnumerable_Example\obj\Debug\IEnumerable_Example.exe
+Z:\SARITA\Last3 Chapters\IEnumerable_Example\obj\Debug\IEnumerable_Example.pdb
+Z:\A_Console APP_Programs\Last3 Chapters\IEnumerable_Example\bin\Debug\IEnumerable_Example.exe
+Z:\A_Console APP_Programs\Last3 Chapters\IEnumerable_Example\bin\Debug\IEnumerable_Example.pdb
+Z:\A_Console APP_Programs\Last3 Chapters\IEnumerable_Example\obj\Debug\ResolveAssemblyReference.cache
+Z:\A_Console APP_Programs\Last3 Chapters\IEnumerable_Example\obj\Debug\IEnumerable_Example.exe
+Z:\A_Console APP_Programs\Last3 Chapters\IEnumerable_Example\obj\Debug\IEnumerable_Example.pdb
+D:\A_Console APP_Programs\Last3 Chapters\IEnumerable_Example\bin\Debug\IEnumerable_Example.exe
+D:\A_Console APP_Programs\Last3 Chapters\IEnumerable_Example\bin\Debug\IEnumerable_Example.pdb
+D:\A_Console APP_Programs\Last3 Chapters\IEnumerable_Example\obj\Debug\IEnumerable_Example.exe
+D:\A_Console APP_Programs\Last3 Chapters\IEnumerable_Example\obj\Debug\IEnumerable_Example.pdb
+D:\A_Console APP_Programs\Last3 Chapters\IEnumerable_Example\obj\Debug\IEnumerable_Example.csprojResolveAssemblyReference.cache

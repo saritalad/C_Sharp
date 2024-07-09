@@ -1,0 +1,7 @@
+D:\C_Sharp\EBOX_Assignments\EBOX_Assignments\obj\Debug\EBOX_Assignments.csprojAssemblyReference.cache
+D:\C_Sharp\EBOX_Assignments\EBOX_Assignments\obj\Debug\EBOX_Assignments.csproj.CoreCompileInputs.cache
+D:\C_Sharp\EBOX_Assignments\EBOX_Assignments\bin\Debug\EBOX_Assignments.exe.config
+D:\C_Sharp\EBOX_Assignments\EBOX_Assignments\bin\Debug\EBOX_Assignments.exe
+D:\C_Sharp\EBOX_Assignments\EBOX_Assignments\bin\Debug\EBOX_Assignments.pdb
+D:\C_Sharp\EBOX_Assignments\EBOX_Assignments\obj\Debug\EBOX_Assignments.exe
+D:\C_Sharp\EBOX_Assignments\EBOX_Assignments\obj\Debug\EBOX_Assignments.pdb

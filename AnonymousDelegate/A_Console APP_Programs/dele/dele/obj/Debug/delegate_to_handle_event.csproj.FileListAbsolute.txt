@@ -1,0 +1,14 @@
+Z:\A_Console APP_Programs\dele\dele\bin\Debug\dele.exe
+Z:\A_Console APP_Programs\dele\dele\bin\Debug\dele.pdb
+Z:\A_Console APP_Programs\dele\dele\obj\Debug\ResolveAssemblyReference.cache
+Z:\A_Console APP_Programs\dele\dele\obj\Debug\dele.exe
+Z:\A_Console APP_Programs\dele\dele\obj\Debug\dele.pdb
+D:\A_Console APP_Programs\dele\dele\obj\Debug\dele.exe
+D:\A_Console APP_Programs\dele\dele\obj\Debug\dele.pdb
+D:\A_Console APP_Programs\dele\dele\bin\Debug\dele.exe
+D:\A_Console APP_Programs\dele\dele\bin\Debug\dele.pdb
+D:\C_Sharp\A_Console APP_Programs\dele\dele\bin\Debug\dele.exe
+D:\C_Sharp\A_Console APP_Programs\dele\dele\bin\Debug\dele.pdb
+D:\C_Sharp\A_Console APP_Programs\dele\dele\obj\Debug\delegate_to_handle_event.csproj.CoreCompileInputs.cache
+D:\C_Sharp\A_Console APP_Programs\dele\dele\obj\Debug\dele.exe
+D:\C_Sharp\A_Console APP_Programs\dele\dele\obj\Debug\dele.pdb

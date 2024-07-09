@@ -1,0 +1,12 @@
+In the output we have two exceptions, the first one is the FileNotFoundException and the second one is the FormatException. But why is the exception order changed?
+
+What I am trying to say here is that we passed an invalid input and an exception was thrown that was then passed to the catch block where ex, in other words the Exception variable ex, holds the exception details.
+
+But then another exception was thrown because the file that we want the exception data to be logged in was missing.
+
+Whenever there is more than one exception, the last occurred exception details is shown and the original exception loses its current state and is treated as an inner exception.
+
+To retain the state and display the original exception, we pass its (Exception ex) ex object as a parameter in the newly occurred exception constructor.
+
+So this is why the current exception is displayed first and the original exception is displayed after it.
+And if you want to handle both the current and the original exception, we need to pass the entire try/catch block into another try block and then catch the exception.

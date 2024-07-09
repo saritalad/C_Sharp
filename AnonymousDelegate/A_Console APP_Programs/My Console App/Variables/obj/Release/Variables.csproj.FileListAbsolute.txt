@@ -1,0 +1,14 @@
+Z:\SARITA\My Console App\Variables\bin\Release\Variables.exe
+Z:\SARITA\My Console App\Variables\bin\Release\Variables.pdb
+Z:\SARITA\My Console App\Variables\obj\Release\ResolveAssemblyReference.cache
+Z:\SARITA\My Console App\Variables\obj\Release\Variables.exe
+Z:\SARITA\My Console App\Variables\obj\Release\Variables.pdb
+Z:\A_Console APP_Programs\My Console App\Variables\bin\Release\Variables.exe
+Z:\A_Console APP_Programs\My Console App\Variables\bin\Release\Variables.pdb
+Z:\A_Console APP_Programs\My Console App\Variables\obj\Release\ResolveAssemblyReference.cache
+Z:\A_Console APP_Programs\My Console App\Variables\obj\Release\Variables.exe
+Z:\A_Console APP_Programs\My Console App\Variables\obj\Release\Variables.pdb
+D:\A_Console APP_Programs\My Console App\Variables\bin\Release\Variables.exe
+D:\A_Console APP_Programs\My Console App\Variables\bin\Release\Variables.pdb
+D:\A_Console APP_Programs\My Console App\Variables\obj\Release\Variables.exe
+D:\A_Console APP_Programs\My Console App\Variables\obj\Release\Variables.pdb

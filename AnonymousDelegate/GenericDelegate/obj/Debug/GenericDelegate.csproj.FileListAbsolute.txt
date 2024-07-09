@@ -1,0 +1,11 @@
+C:\Users\ABC Computers\Desktop\AnonymousDelegate\GenericDelegate\bin\Debug\GenericDelegate.exe
+C:\Users\ABC Computers\Desktop\AnonymousDelegate\GenericDelegate\bin\Debug\GenericDelegate.pdb
+C:\Users\ABC Computers\Desktop\AnonymousDelegate\GenericDelegate\obj\Debug\GenericDelegate.csprojResolveAssemblyReference.cache
+C:\Users\ABC Computers\Desktop\AnonymousDelegate\GenericDelegate\obj\Debug\GenericDelegate.exe
+C:\Users\ABC Computers\Desktop\AnonymousDelegate\GenericDelegate\obj\Debug\GenericDelegate.pdb
+C:\Users\samsung\Desktop\ACDN002\AnonymousDelegate\GenericDelegate\bin\Debug\GenericDelegate.exe
+C:\Users\samsung\Desktop\ACDN002\AnonymousDelegate\GenericDelegate\bin\Debug\GenericDelegate.pdb
+C:\Users\samsung\Desktop\ACDN002\AnonymousDelegate\GenericDelegate\obj\Debug\GenericDelegate.csproj.AssemblyReference.cache
+C:\Users\samsung\Desktop\ACDN002\AnonymousDelegate\GenericDelegate\obj\Debug\GenericDelegate.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\ACDN002\AnonymousDelegate\GenericDelegate\obj\Debug\GenericDelegate.exe
+C:\Users\samsung\Desktop\ACDN002\AnonymousDelegate\GenericDelegate\obj\Debug\GenericDelegate.pdb

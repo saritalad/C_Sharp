@@ -1,0 +1,14 @@
+D:\C_Sharp\AnonymousMethod_Example\Is_As_Example\Is_As_Example\bin\Debug\Is_As_Example.exe.config
+D:\C_Sharp\AnonymousMethod_Example\Is_As_Example\Is_As_Example\bin\Debug\Is_As_Example.exe
+D:\C_Sharp\AnonymousMethod_Example\Is_As_Example\Is_As_Example\bin\Debug\Is_As_Example.pdb
+D:\C_Sharp\AnonymousMethod_Example\Is_As_Example\Is_As_Example\obj\Debug\Is_As_Example.csprojAssemblyReference.cache
+D:\C_Sharp\AnonymousMethod_Example\Is_As_Example\Is_As_Example\obj\Debug\Is_As_Example.csproj.CoreCompileInputs.cache
+D:\C_Sharp\AnonymousMethod_Example\Is_As_Example\Is_As_Example\obj\Debug\Is_As_Example.exe
+D:\C_Sharp\AnonymousMethod_Example\Is_As_Example\Is_As_Example\obj\Debug\Is_As_Example.pdb
+D:\C_Sharp\Is_As_Example\Is_As_Example\bin\Debug\Is_As_Example.exe.config
+D:\C_Sharp\Is_As_Example\Is_As_Example\bin\Debug\Is_As_Example.exe
+D:\C_Sharp\Is_As_Example\Is_As_Example\bin\Debug\Is_As_Example.pdb
+D:\C_Sharp\Is_As_Example\Is_As_Example\obj\Debug\Is_As_Example.csproj.AssemblyReference.cache
+D:\C_Sharp\Is_As_Example\Is_As_Example\obj\Debug\Is_As_Example.csproj.CoreCompileInputs.cache
+D:\C_Sharp\Is_As_Example\Is_As_Example\obj\Debug\Is_As_Example.exe
+D:\C_Sharp\Is_As_Example\Is_As_Example\obj\Debug\Is_As_Example.pdb

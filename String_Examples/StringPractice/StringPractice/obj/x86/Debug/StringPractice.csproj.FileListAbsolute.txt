@@ -1,0 +1,5 @@
+C:\Users\COMPAQ\AppData\Local\Temporary Projects\StringPractice\bin\Debug\StringPractice.exe
+C:\Users\COMPAQ\AppData\Local\Temporary Projects\StringPractice\bin\Debug\StringPractice.pdb
+C:\Users\COMPAQ\AppData\Local\Temporary Projects\StringPractice\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\COMPAQ\AppData\Local\Temporary Projects\StringPractice\obj\x86\Debug\StringPractice.exe
+C:\Users\COMPAQ\AppData\Local\Temporary Projects\StringPractice\obj\x86\Debug\StringPractice.pdb

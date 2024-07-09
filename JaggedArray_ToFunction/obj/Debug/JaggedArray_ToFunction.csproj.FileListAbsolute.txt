@@ -1,0 +1,7 @@
+C:\Users\samsung\Desktop\ACDN002\ConsoleApp1\JaggedArray_Example\JaggedArray_ToFunction\obj\Debug\JaggedArray_ToFunction.csprojAssemblyReference.cache
+C:\Users\samsung\Desktop\ACDN002\ConsoleApp1\JaggedArray_Example\JaggedArray_ToFunction\obj\Debug\JaggedArray_ToFunction.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\ACDN002\ConsoleApp1\JaggedArray_Example\JaggedArray_ToFunction\bin\Debug\JaggedArray_ToFunction.exe.config
+C:\Users\samsung\Desktop\ACDN002\ConsoleApp1\JaggedArray_Example\JaggedArray_ToFunction\bin\Debug\JaggedArray_ToFunction.exe
+C:\Users\samsung\Desktop\ACDN002\ConsoleApp1\JaggedArray_Example\JaggedArray_ToFunction\bin\Debug\JaggedArray_ToFunction.pdb
+C:\Users\samsung\Desktop\ACDN002\ConsoleApp1\JaggedArray_Example\JaggedArray_ToFunction\obj\Debug\JaggedArray_ToFunction.exe
+C:\Users\samsung\Desktop\ACDN002\ConsoleApp1\JaggedArray_Example\JaggedArray_ToFunction\obj\Debug\JaggedArray_ToFunction.pdb

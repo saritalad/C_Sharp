@@ -1,0 +1,13 @@
+D:\C_Sharp\Is_As_Example\AS_example\bin\Debug\netcoreapp2.1\AS_example.deps.json
+D:\C_Sharp\Is_As_Example\AS_example\bin\Debug\netcoreapp2.1\AS_example.runtimeconfig.json
+D:\C_Sharp\Is_As_Example\AS_example\bin\Debug\netcoreapp2.1\AS_example.runtimeconfig.dev.json
+D:\C_Sharp\Is_As_Example\AS_example\bin\Debug\netcoreapp2.1\AS_example.dll
+D:\C_Sharp\Is_As_Example\AS_example\bin\Debug\netcoreapp2.1\AS_example.pdb
+D:\C_Sharp\Is_As_Example\AS_example\obj\Debug\netcoreapp2.1\AS_example.csproj.CoreCompileInputs.cache
+D:\C_Sharp\Is_As_Example\AS_example\obj\Debug\netcoreapp2.1\AS_example.AssemblyInfoInputs.cache
+D:\C_Sharp\Is_As_Example\AS_example\obj\Debug\netcoreapp2.1\AS_example.AssemblyInfo.cs
+D:\C_Sharp\Is_As_Example\AS_example\obj\Debug\netcoreapp2.1\AS_example.dll
+D:\C_Sharp\Is_As_Example\AS_example\obj\Debug\netcoreapp2.1\AS_example.pdb
+D:\C_Sharp\Is_As_Example\AS_example\obj\Debug\netcoreapp2.1\AS_example.csproj.AssemblyReference.cache
+D:\C_Sharp\Is_As_Example\AS_example\obj\Debug\netcoreapp2.1\AS_example.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_Sharp\Is_As_Example\AS_example\obj\Debug\netcoreapp2.1\AS_example.genruntimeconfig.cache

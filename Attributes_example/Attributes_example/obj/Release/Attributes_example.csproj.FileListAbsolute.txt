@@ -1,0 +1,6 @@
+D:\C_Sharp\Attributes_example\Attributes_example\bin\Release\Attributes_example.exe
+D:\C_Sharp\Attributes_example\Attributes_example\bin\Release\Attributes_example.pdb
+D:\C_Sharp\Attributes_example\Attributes_example\obj\Release\Attributes_example.csprojAssemblyReference.cache
+D:\C_Sharp\Attributes_example\Attributes_example\obj\Release\Attributes_example.csproj.CoreCompileInputs.cache
+D:\C_Sharp\Attributes_example\Attributes_example\obj\Release\Attributes_example.exe
+D:\C_Sharp\Attributes_example\Attributes_example\obj\Release\Attributes_example.pdb

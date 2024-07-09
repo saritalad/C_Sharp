@@ -1,0 +1,5 @@
+D:\A_Console APP_Programs\My Console App\Exception_Handling\bin\Release\Exception_Handling.exe
+D:\A_Console APP_Programs\My Console App\Exception_Handling\bin\Release\Exception_Handling.pdb
+D:\A_Console APP_Programs\My Console App\Exception_Handling\obj\x86\Release\Exception_Handling.exe
+D:\A_Console APP_Programs\My Console App\Exception_Handling\obj\x86\Release\Exception_Handling.pdb
+D:\A_Console APP_Programs\My Console App\Exception_Handling\obj\x86\Release\Exception_Handling.csprojResolveAssemblyReference.cache

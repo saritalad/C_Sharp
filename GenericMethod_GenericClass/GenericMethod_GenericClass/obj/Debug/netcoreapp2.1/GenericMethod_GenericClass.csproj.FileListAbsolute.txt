@@ -1,0 +1,11 @@
+D:\C_Sharp\GenericMethod_GenericClass\GenericMethod_GenericClass\bin\Debug\netcoreapp2.1\GenericMethod_GenericClass.deps.json
+D:\C_Sharp\GenericMethod_GenericClass\GenericMethod_GenericClass\bin\Debug\netcoreapp2.1\GenericMethod_GenericClass.runtimeconfig.json
+D:\C_Sharp\GenericMethod_GenericClass\GenericMethod_GenericClass\bin\Debug\netcoreapp2.1\GenericMethod_GenericClass.runtimeconfig.dev.json
+D:\C_Sharp\GenericMethod_GenericClass\GenericMethod_GenericClass\bin\Debug\netcoreapp2.1\GenericMethod_GenericClass.dll
+D:\C_Sharp\GenericMethod_GenericClass\GenericMethod_GenericClass\bin\Debug\netcoreapp2.1\GenericMethod_GenericClass.pdb
+D:\C_Sharp\GenericMethod_GenericClass\GenericMethod_GenericClass\obj\Debug\netcoreapp2.1\GenericMethod_GenericClass.csprojAssemblyReference.cache
+D:\C_Sharp\GenericMethod_GenericClass\GenericMethod_GenericClass\obj\Debug\netcoreapp2.1\GenericMethod_GenericClass.csproj.CoreCompileInputs.cache
+D:\C_Sharp\GenericMethod_GenericClass\GenericMethod_GenericClass\obj\Debug\netcoreapp2.1\GenericMethod_GenericClass.AssemblyInfoInputs.cache
+D:\C_Sharp\GenericMethod_GenericClass\GenericMethod_GenericClass\obj\Debug\netcoreapp2.1\GenericMethod_GenericClass.AssemblyInfo.cs
+D:\C_Sharp\GenericMethod_GenericClass\GenericMethod_GenericClass\obj\Debug\netcoreapp2.1\GenericMethod_GenericClass.dll
+D:\C_Sharp\GenericMethod_GenericClass\GenericMethod_GenericClass\obj\Debug\netcoreapp2.1\GenericMethod_GenericClass.pdb

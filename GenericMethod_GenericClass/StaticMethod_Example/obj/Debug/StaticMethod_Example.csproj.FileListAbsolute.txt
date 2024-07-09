@@ -1,0 +1,7 @@
+D:\C_Sharp\GenericMethod_GenericClass\StaticMethod_Example\obj\Debug\StaticMethod_Example.csprojAssemblyReference.cache
+D:\C_Sharp\GenericMethod_GenericClass\StaticMethod_Example\obj\Debug\StaticMethod_Example.csproj.CoreCompileInputs.cache
+D:\C_Sharp\GenericMethod_GenericClass\StaticMethod_Example\bin\Debug\StaticMethod_Example.exe.config
+D:\C_Sharp\GenericMethod_GenericClass\StaticMethod_Example\bin\Debug\StaticMethod_Example.exe
+D:\C_Sharp\GenericMethod_GenericClass\StaticMethod_Example\bin\Debug\StaticMethod_Example.pdb
+D:\C_Sharp\GenericMethod_GenericClass\StaticMethod_Example\obj\Debug\StaticMethod_Example.exe
+D:\C_Sharp\GenericMethod_GenericClass\StaticMethod_Example\obj\Debug\StaticMethod_Example.pdb

@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: FileHandling_In_CSharp, Configuration: Debug Any CPU ------
+1>  FileHandling_In_CSharp -> D:\C_Sharp\FileHandling_In_CSharp\FileHandling_In_CSharp\bin\Debug\FileHandling_In_CSharp.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

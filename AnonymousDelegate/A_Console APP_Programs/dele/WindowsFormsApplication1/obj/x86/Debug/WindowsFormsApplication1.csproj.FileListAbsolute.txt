@@ -1,0 +1,16 @@
+D:\A_Console APP_Programs\dele\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\A_Console APP_Programs\dele\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\A_Console APP_Programs\dele\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\A_Console APP_Programs\dele\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\A_Console APP_Programs\dele\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\A_Console APP_Programs\dele\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\A_Console APP_Programs\dele\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\C_Sharp\A_Console APP_Programs\dele\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\C_Sharp\A_Console APP_Programs\dele\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\C_Sharp\A_Console APP_Programs\dele\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+D:\C_Sharp\A_Console APP_Programs\dele\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\C_Sharp\A_Console APP_Programs\dele\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\C_Sharp\A_Console APP_Programs\dele\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\C_Sharp\A_Console APP_Programs\dele\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\C_Sharp\A_Console APP_Programs\dele\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\C_Sharp\A_Console APP_Programs\dele\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

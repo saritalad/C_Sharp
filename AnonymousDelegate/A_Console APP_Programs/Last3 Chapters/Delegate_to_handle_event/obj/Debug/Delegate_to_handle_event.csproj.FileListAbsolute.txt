@@ -1,0 +1,5 @@
+D:\A_Console APP_Programs\Last3 Chapters\Delegate_to_handle_event\bin\Debug\Delegate_to_handle_event.exe
+D:\A_Console APP_Programs\Last3 Chapters\Delegate_to_handle_event\bin\Debug\Delegate_to_handle_event.pdb
+D:\A_Console APP_Programs\Last3 Chapters\Delegate_to_handle_event\obj\Debug\Delegate_to_handle_event.exe
+D:\A_Console APP_Programs\Last3 Chapters\Delegate_to_handle_event\obj\Debug\Delegate_to_handle_event.pdb
+D:\A_Console APP_Programs\Last3 Chapters\Delegate_to_handle_event\obj\Debug\Delegate_to_handle_event.csprojResolveAssemblyReference.cache

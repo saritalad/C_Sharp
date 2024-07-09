@@ -1,0 +1,8 @@
+D:\C_Sharp\AnonymousMethod_Example\bin\Debug\AnonymousMethod_Example.exe.config
+D:\C_Sharp\AnonymousMethod_Example\bin\Debug\AnonymousMethod_Example.exe
+D:\C_Sharp\AnonymousMethod_Example\bin\Debug\AnonymousMethod_Example.pdb
+D:\C_Sharp\AnonymousMethod_Example\obj\Debug\AnonymousMethod_Example.csproj.CoreCompileInputs.cache
+D:\C_Sharp\AnonymousMethod_Example\obj\Debug\AnonymousMethod_Example.exe
+D:\C_Sharp\AnonymousMethod_Example\obj\Debug\AnonymousMethod_Example.pdb
+D:\C_Sharp\AnonymousMethod_Example\obj\Debug\AnonymousMethod_Example.csproj.AssemblyReference.cache
+D:\C_Sharp\AnonymousMethod_Example\obj\Debug\AnonymousMethod_Example.csproj.SuggestedBindingRedirects.cache

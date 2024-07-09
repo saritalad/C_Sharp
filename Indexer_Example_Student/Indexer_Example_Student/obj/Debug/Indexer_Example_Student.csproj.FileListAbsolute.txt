@@ -1,0 +1,7 @@
+C:\Users\ABCCOMPUTERS\source\repos\Indexer_Example_Student\Indexer_Example_Student\bin\Debug\Indexer_Example_Student.exe.config
+C:\Users\ABCCOMPUTERS\source\repos\Indexer_Example_Student\Indexer_Example_Student\bin\Debug\Indexer_Example_Student.exe
+C:\Users\ABCCOMPUTERS\source\repos\Indexer_Example_Student\Indexer_Example_Student\bin\Debug\Indexer_Example_Student.pdb
+C:\Users\ABCCOMPUTERS\source\repos\Indexer_Example_Student\Indexer_Example_Student\obj\Debug\Indexer_Example_Student.csprojAssemblyReference.cache
+C:\Users\ABCCOMPUTERS\source\repos\Indexer_Example_Student\Indexer_Example_Student\obj\Debug\Indexer_Example_Student.csproj.CoreCompileInputs.cache
+C:\Users\ABCCOMPUTERS\source\repos\Indexer_Example_Student\Indexer_Example_Student\obj\Debug\Indexer_Example_Student.exe
+C:\Users\ABCCOMPUTERS\source\repos\Indexer_Example_Student\Indexer_Example_Student\obj\Debug\Indexer_Example_Student.pdb

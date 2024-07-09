@@ -1,0 +1,4 @@
+D:\A_Console APP_Programs\Collection Example\MYSoted_List_Example\bin\Debug\MYSoted_List_Example.exe
+D:\A_Console APP_Programs\Collection Example\MYSoted_List_Example\bin\Debug\MYSoted_List_Example.pdb
+D:\A_Console APP_Programs\Collection Example\MYSoted_List_Example\obj\Debug\MYSoted_List_Example.exe
+D:\A_Console APP_Programs\Collection Example\MYSoted_List_Example\obj\Debug\MYSoted_List_Example.pdb

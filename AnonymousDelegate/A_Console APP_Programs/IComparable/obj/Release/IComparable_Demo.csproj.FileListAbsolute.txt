@@ -1,0 +1,4 @@
+D:\A_Console APP_Programs\IComparable\bin\Release\IComparable.exe
+D:\A_Console APP_Programs\IComparable\bin\Release\IComparable.pdb
+D:\A_Console APP_Programs\IComparable\obj\Release\IComparable.exe
+D:\A_Console APP_Programs\IComparable\obj\Release\IComparable.pdb

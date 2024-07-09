@@ -1,0 +1,11 @@
+D:\C_Sharp\MutiThreading example\AsynCAWait_WinFormExample\AsynCAWait_WinFormExample\bin\Debug\AsynCAWait_WinFormExample.exe.config
+D:\C_Sharp\MutiThreading example\AsynCAWait_WinFormExample\AsynCAWait_WinFormExample\bin\Debug\AsynCAWait_WinFormExample.exe
+D:\C_Sharp\MutiThreading example\AsynCAWait_WinFormExample\AsynCAWait_WinFormExample\bin\Debug\AsynCAWait_WinFormExample.pdb
+D:\C_Sharp\MutiThreading example\AsynCAWait_WinFormExample\AsynCAWait_WinFormExample\obj\Debug\AsynCAWait_WinFormExample.csproj.AssemblyReference.cache
+D:\C_Sharp\MutiThreading example\AsynCAWait_WinFormExample\AsynCAWait_WinFormExample\obj\Debug\AsynCAWait_WinFormExample.Form1.resources
+D:\C_Sharp\MutiThreading example\AsynCAWait_WinFormExample\AsynCAWait_WinFormExample\obj\Debug\AsynCAWait_WinFormExample.Properties.Resources.resources
+D:\C_Sharp\MutiThreading example\AsynCAWait_WinFormExample\AsynCAWait_WinFormExample\obj\Debug\AsynCAWait_WinFormExample.csproj.GenerateResource.cache
+D:\C_Sharp\MutiThreading example\AsynCAWait_WinFormExample\AsynCAWait_WinFormExample\obj\Debug\AsynCAWait_WinFormExample.csproj.CoreCompileInputs.cache
+D:\C_Sharp\MutiThreading example\AsynCAWait_WinFormExample\AsynCAWait_WinFormExample\obj\Debug\AsynCAWait_WinFormExample.exe
+D:\C_Sharp\MutiThreading example\AsynCAWait_WinFormExample\AsynCAWait_WinFormExample\obj\Debug\AsynCAWait_WinFormExample.pdb
+D:\C_Sharp\MutiThreading example\AsynCAWait_WinFormExample\AsynCAWait_WinFormExample\obj\Debug\AsynCAWait_WinFormExample.Form2.resources

@@ -1,0 +1,16 @@
+C:\Users\COMPAQ\AppData\Local\Temporary Projects\StringExamples\bin\Debug\StringExamples.exe
+C:\Users\COMPAQ\AppData\Local\Temporary Projects\StringExamples\bin\Debug\StringExamples.pdb
+C:\Users\COMPAQ\AppData\Local\Temporary Projects\StringExamples\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\COMPAQ\AppData\Local\Temporary Projects\StringExamples\obj\x86\Debug\StringExamples.exe
+C:\Users\COMPAQ\AppData\Local\Temporary Projects\StringExamples\obj\x86\Debug\StringExamples.pdb
+C:\Users\COMPAQ\Documents\Visual Studio 2010\Projects\StringExamples\StringExamples\obj\x86\Debug\StringExamples.exe
+C:\Users\COMPAQ\Documents\Visual Studio 2010\Projects\StringExamples\StringExamples\obj\x86\Debug\StringExamples.pdb
+C:\Users\COMPAQ\Documents\Visual Studio 2010\Projects\StringExamples\StringExamples\bin\Debug\StringExamples.exe
+C:\Users\COMPAQ\Documents\Visual Studio 2010\Projects\StringExamples\StringExamples\bin\Debug\StringExamples.pdb
+C:\Users\COMPAQ\Documents\Visual Studio 2010\Projects\StringExamples\StringExamples\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C_Sharp\ComPAqCode\StringExamples\StringExamples\bin\Debug\StringExamples.exe
+D:\C_Sharp\ComPAqCode\StringExamples\StringExamples\bin\Debug\StringExamples.pdb
+D:\C_Sharp\ComPAqCode\StringExamples\StringExamples\obj\x86\Debug\StringExamples.csprojAssemblyReference.cache
+D:\C_Sharp\ComPAqCode\StringExamples\StringExamples\obj\x86\Debug\StringExamples.csproj.CoreCompileInputs.cache
+D:\C_Sharp\ComPAqCode\StringExamples\StringExamples\obj\x86\Debug\StringExamples.exe
+D:\C_Sharp\ComPAqCode\StringExamples\StringExamples\obj\x86\Debug\StringExamples.pdb
